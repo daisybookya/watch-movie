@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/watch-movie/static/css/main.20cbe383.css",
+    "main.js": "/watch-movie/static/js/main.1576ba69.js",
+    "index.html": "/watch-movie/index.html",
+    "main.20cbe383.css.map": "/watch-movie/static/css/main.20cbe383.css.map",
+    "main.1576ba69.js.map": "/watch-movie/static/js/main.1576ba69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20cbe383.css",
+    "static/js/main.1576ba69.js"
+  ]
+}

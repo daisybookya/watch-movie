@@ -1,0 +1,638 @@
+{
+    "films": [
+        {
+            "film_id": 333203,
+            "imdb_id": 14614892,
+            "imdb_title_id": "tt14614892",
+            "film_name": "Dragon Ball Super: Super Hero",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-19",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for some action/violence and smoking."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/333203_high.mp4",
+            "synopsis_long": "The Red Ribbon Army was once destroyed by Son Goku. Individuals who carry on its spirit have created the ultimate Androids, Gamma 1 and Gamma 2. These two Androids call themselves \"Super Heroes.\" They start attacking Piccolo and Gohan. What is the New Red Ribbon Army's objective? In the face of approaching danger, it is time to awaken - Super Hero!",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/333203/333203h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 318783,
+            "imdb_id": 13223398,
+            "imdb_title_id": "tt13223398",
+            "film_name": "Beast",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-19",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for violent content, bloody images and some language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/318783_high.mp4",
+            "synopsis_long": "Dr. Nate Samuels, a recently widowed husband returns to South Africa, where he first met his wife, on a long-planned trip with their daughters to a game reserve. But what begins as a journey of healing jolts into a fearsome fight for survival when a lion, a survivor of blood-thirsty poachers who now sees all humans as the enemy, begins stalking them.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/318783/318783h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/318783/318783h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 333581,
+            "imdb_id": 15325794,
+            "imdb_title_id": "tt15325794",
+            "film_name": "Fall",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-12",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for bloody images, intense peril, and strong language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/333581_high_V2.mp4",
+            "synopsis_long": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter's expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights in this adrenaline-fueled thriller.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/333581/333581h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/333581/333581h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 331973,
+            "imdb_id": 14330236,
+            "imdb_title_id": "tt14330236",
+            "film_name": "Mack & Rita",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-12",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for some drug use, sexual references and language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/331973_high.mp4",
+            "synopsis_long": "The indie, which will be helmed by actor-filmmaker Katie Aselton, stars Elizabeth Lail as Mackenze, a disillusioned 30-something who is exhausted by societal demands and wishes to be comfortable in her skin like her grandmother.  While at her best friend's bachelorette party, she stumbles into a \"sound bath regression pod\" and emerges as a 70-year-old (Keaton), \"Aunt Rita,\" soon realizing that the acceptance she craves from those around her is unlikely to come as quickly.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/331973/331973h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/331973/331973h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 331212,
+            "imdb_id": 9198364,
+            "imdb_title_id": "tt9198364",
+            "film_name": "Three Thousand Years of Longing",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-26",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for some sexual content, graphic nudity and brief violence."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/331212_high.mp4",
+            "synopsis_long": "Dr Alithea Binnie (Tilda Swinton) is an academic - content with life and a creature of reason. While in Istanbul attending a conference, she happens to encounter a Djinn (Idris Elba) who offers her three wishes in exchange for his freedom. This presents two problems. First, she doubts that he is real and second, because she is a scholar of story and mythology, she knows all the cautionary tales of wishes gone wrong. The Djinn pleads his case by telling her fantastical stories of his past. Eventually she is beguiled and makes a wish that surprises them both.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/331212/331212h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/331212/331212h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 332625,
+            "imdb_id": 10028196,
+            "imdb_title_id": "tt10028196",
+            "film_name": "Laal Singh Chaddha (Hindi)",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-11",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for some violent content, thematic elements and suggestive material."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/332625_high.mp4",
+            "synopsis_long": "LAAL SINGH CHADDHA, a simple man whose extraordinary journey will fill you with love, warmth & happiness.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/332625/332625h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 312980,
+            "imdb_id": 10540510,
+            "imdb_title_id": "tt10540510",
+            "film_name": "Inu-Oh",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-12",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/312980_high.mp4",
+            "synopsis_long": "From visionary director Masaaki Yuasa, hailed by IndieWire as \"one of the most creatively unbridled minds in all of modern animation,\" comes a revisionist rock opera about a 14th-century superstar whose dance moves take Japan by storm.Born to an esteemed family, Inu-oh is afflicted with an ancient curse that has left him on the margins of society. When he meets the blind musician Tomona, a young biwa priest haunted by his past, Inu-oh discovers a captivating ability to dance. The pair quickly become business partners and inseparable friends as crowds flock to their electric, larger-than-life concerts. But when those in power threaten to break up the band, Inu-oh and Tomona must dance and sing to uncover the truth behind their creative gifts.Featuring character design by Taiyo Matsumoto and awe-inspiring vocals by Avu-chan and Mirai Moriyama, INU-OH is a glam-rock ode to the power of music and a forceful statement on artistic freedom from one of animation's singular talents.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/312980/312980h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/312980/312980h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 327104,
+            "imdb_id": 15255876,
+            "imdb_title_id": "tt15255876",
+            "film_name": "Emily the Criminal",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-12",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for language, some violence and brief drug use."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/327104_high.mp4",
+            "synopsis_long": "Emily (Aubrey Plaza) is saddled with student debt and locked out of the job market due to a minor criminal record. Desperate for income, she takes a shady gig as a \"dummy shopper,\" buying goods with stolen credit cards supplied by a handsome and charismatic middleman named Youcef (Theo Rossi). Faced with a series of dead-end job interviews, Emily soon finds herself seduced by the quick cash and illicit thrills of black-market capitalism, and increasingly interested in her mentor Youcef. Together, they hatch a plan to bring their business to the next level in Los Angeles.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/327104/327104h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/327104/327104h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 327177,
+            "imdb_id": 15208276,
+            "imdb_title_id": "tt15208276",
+            "film_name": "Summering",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-12",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for some thematic material."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/327177_high.mp4",
+            "synopsis_long": "During their last days of summer and childhood -- the weekend before middle school begins -- four girls struggle with the harsh truths of growing up and embark on a mysterious adventure.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/327177/327177h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/327177/327177h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 329307,
+            "imdb_id": 13070038,
+            "imdb_title_id": "tt13070038",
+            "film_name": "After Ever Happy",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-09-07",
+                    "notes": "Limited"
+                },
+                {
+                    "release_date": "2022-09-08",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for language throughout, some sexual content and brief drug material."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/329307_high.mp4",
+            "synopsis_long": "The fourth and final chapter in the AFTER franchise finds Tessa and Hardin at a crossroads: Does Tessa continue trying to save him and their relationship, or is it time to save herself? While Hardin remains in London after his mother's wedding and sinks deeper into darkness, Tessa returns to Seattle an endures a tragedy. If they want their love to survive, they'll need to work on themselves first. But will their paths lead them back to each other? This exclusive two-night event will also include a special behind-the-scenes look into the filming of After Every Happy with new cast & crew interviews, never before seen footage etc.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/329307/329307h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 327025,
+            "imdb_id": 11128440,
+            "imdb_title_id": "tt11128440",
+            "film_name": "Clerks III",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-09-13",
+                    "notes": "Limited"
+                },
+                {
+                    "release_date": "2022-09-15",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for pervasive language, crude sexual material, and drug content."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/327025_high.mp4",
+            "synopsis_long": "Following a massive heart attack, Randal enlists his friends and fellow clerks Dante, Elias, Jay, and Silent Bob to make a movie immortalizing his life at the convenience store that started it all.Plus, go behind the scenes with Kevin Smith and the cast of Clerks III. Hear what it took to bring back the cast of this iconic franchise and their time together since the first film 28 years ago.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/327025/327025h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 323273,
+            "imdb_id": 11261830,
+            "imdb_title_id": "tt11261830",
+            "film_name": "The Retaliators",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-09-14",
+                    "notes": ""
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/323273_high.mp4",
+            "synopsis_long": "In THE RETALIATORS, an upstanding pastor uncovers a dark and twisted underworld as he searches for answers surrounding his daughter's brutal murder. A high-octane original soundtrack and cameos from some of the biggest names in rock music set the tone as this horror-thriller reveals a game of revenge played using a new set of rules.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/323273/323273h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/323273/323273h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 330888,
+            "imdb_id": 11851548,
+            "imdb_title_id": "tt11851548",
+            "film_name": "Orphan: First Kill",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-19",
+                    "notes": "Platform"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for bloody violence, language and brief sexual content"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/330888_high.mp4",
+            "synopsis_long": "After escaping from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family. Yet, an unexpected twist arises that pits her against a mother who will protect her family at any cost.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/330888/330888h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/330888/330888h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 332573,
+            "imdb_id": 12834962,
+            "imdb_title_id": "tt12834962",
+            "film_name": "Raksha Bandhan",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-11",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/332573_high.mp4",
+            "synopsis_long": "Lala Kedarnath, the eldest and only brother of 4 sisters, runs a chaat shop that was started by his father. Lala promises his frail mother on her deathbed that he will get married only after he fulfills the responsibility of marrying his sisters into suitable homes first. What follows is Lala's relentless efforts of getting his sisters married while upholding his family values. At the same time, Lala also faces hiccups on the personal front, his romantic life with his childhood love Sapna. However, Lala's commitment to his sisters stands as a huge roadblock for his and Sapna's love story to take off. Understanding the importance of Lala's vow, Sapna decides to wait till his goal is achieved.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/332573/332573h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 327347,
+            "imdb_id": 12655436,
+            "imdb_title_id": "tt12655436",
+            "film_name": "Honk For Jesus. Save Your Soul.",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-09-02",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/327347_high.mp4",
+            "synopsis_long": "Honk for Jesus. Save Your Soul. is a satirical comedy starring Regina Hall as Trinitie Childs - the proud first lady of a Southern Baptist megachurch, who together with her husband Pastor Lee-Curtis Childs (Sterling K. Brown), once served a congregation in the tens of thousands. But after a scandal forces their church to temporarily close, Trinitie and Lee-Curtis must reopen their church and rebuild their congregation to make the biggest comeback that commodified religion has ever seen.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/327347/327347h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "status": {
+        "count": 15,
+        "state": "OK",
+        "method": "filmsComingSoon",
+        "message": null,
+        "request_method": "GET",
+        "version": "LEAR_11v200",
+        "territory": "US",
+        "device_datetime_sent": "2022-08-07T14:18:58.055Z",
+        "device_datetime_used": "2022-08-07 14:18:58"
+    }
+}

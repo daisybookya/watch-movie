@@ -1,0 +1,1094 @@
+{
+    "films": [
+        {
+            "film_id": 319635,
+            "imdb_id": 12593682,
+            "imdb_title_id": "tt12593682",
+            "film_name": "Bullet Train",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-05",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for strong and bloody violence, pervasive language, and brief sexuality."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/319635_high_V2.mp4",
+            "synopsis_long": "In Bullet Train, Brad Pitt stars as Ladybug, an unlucky assassin determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe - all with connected, yet conflicting, objectives - on the world's fastest train...and he's got to figure out how to get off.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/319635/ITA_319635h0.jpg",
+                            "width": 203,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/319635/319635h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 287182,
+            "imdb_id": 8912936,
+            "imdb_title_id": "tt8912936",
+            "film_name": "DC League of Super-Pets",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-07-29",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": "for action, mild violence, language and rude humor."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/287182_high_V2.mp4",
+            "synopsis_long": "Krypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime in Metropolis side by side. When Superman and the rest of the Justice League are kidnapped, Krypto must convince a rag-tag shelter pack - Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel - to master their own newfound powers and help him rescue the Super Heroes.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/287182/287182h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/287182/287182h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 320624,
+            "imdb_id": 11952606,
+            "imdb_title_id": "tt11952606",
+            "film_name": "Easter Sunday",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-05",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for some strong langauge, and suggestive references."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/320624_high.mp4",
+            "synopsis_long": "Stand-up comedy sensation Jo Koy stars as a man returning home for an Easter celebration with his riotous, bickering, eating, drinking, laughing, loving family, in this love letter to his Filipino-American community.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/320624/320624h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/320624/320624h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 240914,
+            "imdb_id": 5113044,
+            "imdb_title_id": "tt5113044",
+            "film_name": "Minions: The Rise of Gru",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-07-01",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": "for some action/violence and rude humor"
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/240914_high_V3.mp4",
+            "synopsis_long": "Long before he becomes the master of evil, Gru is just a 12-year-old boy in 1970s suburbia, plotting to take over the world from his basement. It's not going particularly well. When Gru crosses paths with the Minions, including Kevin, Stuart, Bob, and Otto - a new Minion sporting braces and a desperate need to please - this unexpected family joins forces. Together, they build their first lair, design their first weapons, and strive to execute their first missions. When the infamous supervillain supergroup, the Vicious 6, oust their leader, Gru interviews to become their newest member. The Vicious 6 is not impressed by the diminutive, wannabe villain, but then Gru outsmarts (and enrages) them, and he suddenly finds himself the mortal enemy of the apex of evil. With Gru on the run, the Minions attempt to master the art of kung fu to help save him, and Gru discovers that even bad guys need a little help from their friends.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/240914/240914h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/240914/240914h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 320672,
+            "imdb_id": 10954984,
+            "imdb_title_id": "tt10954984",
+            "film_name": "Nope",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-07-22",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for language throughout and some violence/bloody images."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/320672_high_V2.mp4",
+            "synopsis_long": "\"What's a bad miracle?\"Oscar® winner Jordan Peele disrupted and redefined modern horror with Get Out and then Us. Now, he reimagines the summer movie with a new pop nightmare: the expansive horror epic, Nope. The film reunites Peele with Oscar® winner Daniel Kaluuya (Get Out, Judas and the Black Messiah), who is joined by Keke Palmer (Hustlers, Alice) and Oscar® nominee Steven Yeun (Minari, Okja) as residents in a lonely gulch of inland California who bear witness to an uncanny and chilling discovery.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/320672/320672h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/320672/320672h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 296302,
+            "imdb_id": 10648342,
+            "imdb_title_id": "tt10648342",
+            "film_name": "Thor: Love and Thunder",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-07-08",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for intense sequences of sci-fi violence and action, language, some suggestive material and partial nudity."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/296302_high_V2.mp4",
+            "synopsis_long": "\"Thor: Love and Thunder\" finds Thor (Chris Hemsworth) on a journey unlike anything he's ever faced - a quest for inner peace. But his retirement is interrupted by a galactic killer known as Gorr the God Butcher (Christian Bale), who seeks the extinction of the gods. To combat the threat, Thor enlists the help of King Valkyrie (Tessa Thompson), Korg (Taika Waititi) and ex-girlfriend Jane Foster (Natalie Portman), who - to Thor's surprise - inexplicably wields his magical hammer, Mjolnir, as the Mighty Thor. Together, they embark upon a harrowing cosmic adventure to uncover the mystery of the God Butcher's vengeance and stop him before it's too late.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/296302/ITA_296302h0.jpg",
+                            "width": 203,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/296302/296302h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 316065,
+            "imdb_id": 9411972,
+            "imdb_title_id": "tt9411972",
+            "film_name": "Where the Crawdads Sing",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-07-15",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for sexual content and some violence including a sexual assault."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/316065_high.mp4",
+            "synopsis_long": "From the best-selling novel comes a captivating mystery. Where the Crawdads Sing tells the storyof Kya, an abandoned girl who raised herself to adulthood in the dangerous marshlands of NorthCarolina. For years, rumors of the \"Marsh Girl\" haunted Barkley Cove, isolating the sharp andresilient Kya from her community. Drawn to two young men from town, Kya opens herself to a newand startling world; but when one of them is found dead, she is immediately cast by the communityas the main suspect. As the case unfolds, the verdict as to what actually happened becomesincreasingly unclear, threatening to reveal the many secrets that lay within the marsh.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/316065/316065h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/316065/316065h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 253705,
+            "imdb_id": 1745960,
+            "imdb_title_id": "tt1745960",
+            "film_name": "Top Gun: Maverick",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-05-27",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for sequences of intense action, and some strong language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/253705_high_V3.mp4",
+            "synopsis_long": "After more than thirty years of service as one of the Navy's top aviators, Pete \"Maverick\" Mitchell (Tom Cruise) is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him. When he finds himself training a detachment of Top Gun graduates for a specialized mission the likes of which no living pilot has ever seen, Maverick encounters Lt. Bradley Bradshaw (Miles Teller), call sign: \"Rooster,\" the son of Maverick's late friend and Radar Intercept Officer Lt. Nick Bradshaw, aka \"Goose\".\n\n Facing an uncertain future and confronting the ghosts of his past, Maverick is drawn into a confrontation with his own deepest fears, culminating in a mission that demands the ultimate sacrifice from those who will be chosen to fly it.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/253705/253705h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/253705/253705h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 325903,
+            "imdb_id": 3704428,
+            "imdb_title_id": "tt3704428",
+            "film_name": "Elvis",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-06-24",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for substance abuse, strong language, suggestive material and smoking."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/325903_high_V3.mp4",
+            "synopsis_long": "\"Elvis\" is Oscar-nominated filmmaker Baz Luhrmann's musical drama about the life and music of Elvis Presley, seen through the prism of his complicated relationship with his enigmatic manager, Colonel Tom Parker. The story delves into the complex dynamic between Presley and Parker spanning over 20 years, from Presley's rise to fame to his unprecedented stardom, against the backdrop of the evolving cultural landscape and loss of innocence in America. Central to that journey is one of the most significant and influential people in Elvis's life, Priscilla Presley.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/325903/325903h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/325903/325903h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 328677,
+            "imdb_id": 8110652,
+            "imdb_title_id": "tt8110652",
+            "film_name": "Bodies Bodies Bodies",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-05",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for violence, bloodyimages, drug use, sexual references and pervasive language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/328677_high.mp4",
+            "synopsis_long": "When a group of rich 20-somethings plan a hurricane party at a remote family mansion, a party game turns deadly in this fresh and funny look at backstabbing, fake friends, and one party gone very, very wrong.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/328677/328677h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/328677/328677h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 318286,
+            "imdb_id": 7144666,
+            "imdb_title_id": "tt7144666",
+            "film_name": "The Black Phone",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-06-24",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for violence, bloody images, language and some drug use."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/318286_high_V2.mp4",
+            "synopsis_long": "Finney Shaw, a shy but clever 13-year-old boy, is abducted by a sadistic killer and trapped in a soundproof basement where screaming is of little use. When a disconnected phone on the wall begins to ring, Finney discovers that he can hear the voices of the killer's previous victims. And they are dead set on making sure that what happened to them doesn't happen to Finney.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/318286/318286h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/318286/318286h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 328985,
+            "imdb_id": 11976532,
+            "imdb_title_id": "tt11976532",
+            "film_name": "Vengeance",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-07-29",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for language and brief violence."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/328985_high.mp4",
+            "synopsis_long": "Ben Manalowitz is an aspiring New York podcaster in search of a story. When the body of a woman he'd been hooking up with is discovered in a West Texas oil field, he stumbles onto exactly the sort of true-crime tale that could make his career. Launching an investigation into her death in collaboration with high-powered producer, the confident Ben finds himself in over his head attempting to navigate a wildly unfamiliar culture. As he grows unexpectedly close to the young woman's eccentric family and encounters figures like the enigmatic music producer Quentin Sellers, he's forced to confront his own shortcomings and preconceptions. At the same time, he's drawn into an ill-considered plot to avenge the crime.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/328985/328985h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/328985/328985h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 267244,
+            "imdb_id": 8041270,
+            "imdb_title_id": "tt8041270",
+            "film_name": "Jurassic World Dominion",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-06-10",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for intense sequences of action, some violence and language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/267244_high_V2.mp4",
+            "synopsis_long": "From Jurassic World architect and director Colin Trevorrow, Dominion takes place four years after Isla Nublar has been destroyed. Dinosaurs now live - and hunt - alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/267244/267244h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/267244/267244h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 318579,
+            "imdb_id": 5151570,
+            "imdb_title_id": "tt5151570",
+            "film_name": "Mrs. Harris Goes to Paris",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-07-15",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": "for suggestive material, language and smoking."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/318579_high.mp4",
+            "synopsis_long": "In partnership with the House of Dior, Mrs. Harris Goes To Paris tells the story of a widowed cleaning lady in 1950s London who falls madly in love with a couture Dior dress, and decides that she must have one of her own. After she works, starves and gambles to raise the funds to pursue her dream, she embarks on an adventure to Paris which will change not only her own outlook, but the very future of the House of Dior.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/318579/318579h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/318579/318579h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 326147,
+            "imdb_id": 15339456,
+            "imdb_title_id": "tt15339456",
+            "film_name": "Marcel the Shell with Shoes On",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-06-24",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": "for some suggestive material and thematic elements."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/326147_high.mp4",
+            "synopsis_long": "An adorable one-inch-tall shell is discovered by a documentary filmmaker bringing him unprecedented dangers and a new hope at finding his long-lost family.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/326147/326147h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/326147/326147h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 333225,
+            "imdb_id": 20850406,
+            "imdb_title_id": "tt20850406",
+            "film_name": "Sita Ramam (Telugu)",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-05",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Sita Ramam is a love story set against the background of a war.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/333225/333225h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 234133,
+            "imdb_id": 4428398,
+            "imdb_title_id": "tt4428398",
+            "film_name": "Paws of Fury: The Legend of Hank",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-07-15",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": "for action, violence, rude and suggestive humor, and some language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/234133_high_V3.mp4",
+            "synopsis_long": "A hard-on-his-luck hound Hank finds himself in a town full of cats who need a hero to defend them from a ruthless villain's evil plot to wipe their village off the map. With help from a reluctant teacher to train him, our underdog must assume the role of town samurai and team up with the villagers to save the day. The only problem - cats hate dogs!",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/234133/234133h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/234133/234133h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 324651,
+            "imdb_id": 7600742,
+            "imdb_title_id": "tt7600742",
+            "film_name": "Hallelujah: Leonard Cohen, a Journey, a Song",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-07-01",
+                    "notes": "NY/LA"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for brief strong language and some sexual material."
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "HALLELUJAH: Leonard Cohen, A Journey, A Song is a definitive exploration of singersongwriter Leonard Cohen as seen through the prism of his internationally renowned hymn, \"Hallelujah.\" This feature-length documentary weaves together three creative strands: The songwriter and his times; the song's dramatic journey from record label reject to chart-topping hit; and moving testimonies from major recording artists for whom \"Hallelujah\" has become a personal touchstone. Approved for production by Leonard Cohen just before his 80th birthday in 2014, the film accesses a wealth of never-before-seen archival materials from the Cohen Trust including Cohen's personal notebooks, journals and photographs, performance footage, and extremely rare audio recordings and interviews.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/324651/324651h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 327020,
+            "imdb_id": 6710474,
+            "imdb_title_id": "tt6710474",
+            "film_name": "Everything Everywhere All At Once",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-03-25",
+                    "notes": "Limited"
+                },
+                {
+                    "release_date": "2022-07-29",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for some violence, sexual material and language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/327020_high.mp4",
+            "synopsis_long": "\"Everything Everywhere All at Once\"  is a hilarious and big-hearted sci-fi action adventure about an exhausted Chinese American woman (Michelle Yeoh) who can't seem to finish her taxes.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/327020/327020h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/327020/327020h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 319869,
+            "imdb_id": 14935966,
+            "imdb_title_id": "tt14935966",
+            "film_name": "I Love My Dad",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-05",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": "for sexual content and language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/319869_high_V2.mp4",
+            "synopsis_long": "Inspired by writer, director, and star James Morosini's true life experience, I LOVE MY DAD follows Chuck (Patton Oswalt), a hopelessly estranged father who desperately wants to reconnect with his troubled son, Franklin (Morosini). Blocked on social media and concerned for his son's life, Chuck impersonates a waitress online and starts checking in with Franklin. But things begin to spiral when Franklin falls for this imaginary girl (Claudia Sulewski) and wants nothing more than to meet her in person, as Chuck has inadvertently catfished his own son. A thrilling comedy with an unexpected twist, I LOVE MY DAD also stars Rachel Dratch, Lil Rel Howery, Amy Landecker and Ricky Velez.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/319869/319869h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/319869/319869h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 319113,
+            "imdb_id": 14915198,
+            "imdb_title_id": "tt14915198",
+            "film_name": "Bimbisara",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-04",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Bimbisara is an adventurous time travel film where the protagonist time travels from his kingdom to the present world.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/319113/319113h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 315321,
+            "imdb_id": 10298810,
+            "imdb_title_id": "tt10298810",
+            "film_name": "Lightyear",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-06-17",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": "for action/peril."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/315321_high_V3.mp4",
+            "synopsis_long": "A sci-fi action adventure and the definitive origin story of Buzz Lightyear (voice of Chris Evans), the hero who inspired the toy, \"Lightyear\" follows the legendary Space Ranger on an intergalactic adventure alongside a group of ambitious recruits (voices of Keke Palmer, Dale Soules and Taika Waititi), and his robot companion Sox (voice of Peter Sohn).",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/315321/315321h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/315321/315321h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 327340,
+            "imdb_id": 16227014,
+            "imdb_title_id": "tt16227014",
+            "film_name": "Fire of Love",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-07-06",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": "for thematic material including some unsettling images, and brief smoking."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/327340_high.mp4",
+            "synopsis_long": "Intrepid French scientists Katia and Maurice Krafft devoted their lives to uncovering the mystery of volcanoes, chasing fire around the world and in the process capturing some of the most spectacular imagery of the earth ever recorded. Told through the lenses of this magnetic couple, FIRE OF LOVE is a visual romance that takes place on an intimate and awesome scale, exploring how their shared passion enabled pioneering research in the 1970s and 80s that helped save lives, but ultimately ended their own.\n\nDirected by Sara Dosa and narrated by Miranda July, this lyrical archival collage pulls from hundreds of hours of rare and never-before-seen footage and photographs shot by the Kraffts, channeling the humor, affection, and insatiable curiosity that was integral to their partnership and which left behind a legacy that has forever enriched our understanding of the natural world.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/327340/327340h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/327340/327340h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 310880,
+            "imdb_id": 7214954,
+            "imdb_title_id": "tt7214954",
+            "film_name": "Luck",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-08-05",
+                    "notes": "Platform"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "G ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/g.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "The story of Sam Greenfield, the unluckiest person in the world. Suddenly finding herself in the never-before-seen Land of Luck, she must unite with the magical creatures there to turn her luck around.",
+            "images": {
+                "poster": []
+            }
+        },
+        {
+            "film_id": 321015,
+            "imdb_id": 11559472,
+            "imdb_title_id": "tt11559472",
+            "film_name": "Ali & Ava",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2022-07-29",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "0 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/uc.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Both lonely for different reasons, ALI and AVA meet through their shared affection for SOFIA (6), the child of ALI's Slovakian tenants, whom AVA teaches.  ALI finds comfort in AVA's warmth and kindness and AVA finds ALI's complexity and humour irresistible.  Over a lunar month, sparks fly and a deep connection begins to grow.  However, the legacy of AVA's past relationship and ALI's emotional turmoil at the breakdown of his marriage begins to overshadow their newfound passion.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/321015/321015h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/321015/321015h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        }
+    ],
+    "status": {
+        "count": 25,
+        "state": "OK",
+        "method": "filmsNowShowing",
+        "message": null,
+        "request_method": "GET",
+        "version": "LEAR_11v200",
+        "territory": "US",
+        "device_datetime_sent": "2022-08-07T14:18:58.055Z",
+        "device_datetime_used": "2022-08-07 14:18:58"
+    }
+}
