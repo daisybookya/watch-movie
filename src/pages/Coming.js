@@ -99,11 +99,11 @@ const Coming = () => {
                             onClick={() => getTrailer (v)}
                             src={v.images.poster['1'].medium.film_image}
                             preview={false}
-                            placeholder="../subimg.jpg"
+                            placeholder={process.env.PUBLIC_URL + '/subimg.jpg'}
                           />
                         : <Image
                             onClick={() => getTrailer (v)}
-                            src="../subimg.jpg"
+                            src={process.env.PUBLIC_URL + '/subimg.jpg'}
                             preview={false}
                           />}
                       <span className="sp-font">{v.film_name}</span>

@@ -101,7 +101,10 @@ const Showing = () => {
                       alt={item.film_name}
                       src={item.images.poster['1'].medium.film_image}
                     />
-                  : <img src="../subimg.jpg" alt={item.film_name} />
+                  : <img
+                      src={process.env.PUBLIC_URL + '/subimg.jpg'}
+                      alt={item.film_name}
+                    />
               }
             >
               <Meta className="sp-font" title={item.film_name} />

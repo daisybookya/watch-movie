@@ -131,7 +131,7 @@ const FilmTimes = () => {
                         }
                       />
                     : <img
-                        src="../subimg.jpg"
+                        src={process.env.PUBLIC_URL + '/subimg.jpg'}
                         alt={filmInfor.film.film_name}
                       />}
 

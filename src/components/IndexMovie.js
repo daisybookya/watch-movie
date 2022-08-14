@@ -13,7 +13,11 @@ export function IndexMovie (props) {
           md={{span: 4, offset: 5}}
           lg={{span: 4, offset: 6}}
         >
-          <Image src={props.img} preview={false} fallback="../subimg.jpg" />
+          <Image
+            src={props.img}
+            preview={false}
+            fallback={process.env.PUBLIC_URL + '/subimg.jpg'}
+          />
           <Button type="primary" className="close-btn" onClick={props.close}>
             close X
           </Button>

@@ -60,9 +60,12 @@ const Home = () => {
                     ? <Image
                         src={v.images.poster['1'].medium.film_image}
                         preview={false}
-                        placeholder="../subimg.jpg"
+                        placeholder={process.env.PUBLIC_URL + '/subimg.jpg'}
                       />
-                    : <Image src="../subimg.jpg" preview={false} />}
+                    : <Image
+                        src={process.env.PUBLIC_URL + '/subimg.jpg'}
+                        preview={false}
+                      />}
 
                   <span className="sp-font">{v.film_name.slice (0, 20)}</span>
                 </div>

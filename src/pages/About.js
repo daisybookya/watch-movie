@@ -48,7 +48,6 @@ const About = () => {
               MovieGlu{' '}
             </a>(提供美、英、法、西班牙、德、荷、澳洲、加拿大、印度等國家上映的電影資訊)
           </p>
-          <img src={process.env.PUBLIC_URL + '/subimg.jpg'} />
         </Card>
       </div>
     </Layout>
