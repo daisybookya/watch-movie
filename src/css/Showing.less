@@ -1,0 +1,130 @@
+@primary-color: #aa7714; // 全局主色
+@link-color: #a9d134; // 链接色
+@font-size-base: 15px; // 主字号
+@heading-color: #f8df8b; // 标题色
+@text-color: rgb(255, 255, 255); // 主文本色
+@text-color-secondary: rgba(255, 255, 255, 0.45); // 次文本色
+@main: #aa7714;
+@second: #6f9412;
+@bk: #333;
+@border-space: 3%;
+
+.showing {
+  overflow: hidden;
+  text-align: left;
+}
+.close-btn {
+  margin-top: 10px;
+  vertical-align: middle;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.index-movie {
+  width: 100%;
+  opacity: 0;
+  padding: @border-space;
+  transition: all 0.5s ease-in-out;
+  background: rgba(128, 81, 11, 0.9);
+  position: absolute;
+  left: 0;
+  top: 10%;
+  transform: scale(1, 0.1) translateY(-50%);
+  &.active {
+    position: fixed;
+    transform: scale(1, 1) translateY(0%);
+    opacity: 1;
+    z-index: 18;
+  }
+}
+.trailer-box {
+  display: flex;
+  justify-content: center;
+  .description {
+    margin-right: @border-space;
+  }
+  .control-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: @main;
+    button {
+      margin: 0 5px;
+      border-radius: 0;
+    }
+    .vol-control {
+      margin: 0 10px;
+      display: flex;
+      align-items: center;
+    }
+  }
+}
+.ant-list-empty-text,
+.ant-empty-normal {
+  color: @text-color;
+}
+.ant-card-cover {
+  min-height: 150px;
+  background: @main;
+}
+
+///////////coming movie
+
+.coming {
+  padding-bottom: @border-space;
+  .slick-list {
+    background: #000;
+    border-radius: 15px;
+  }
+  .ant-image {
+    cursor: pointer;
+  }
+}
+.coming-box {
+  display: flex;
+  justify-content: center;
+  padding: 50px 0;
+  span {
+    font-size: 18px;
+    writing-mode: vertical-lr;
+  }
+}
+
+.ant-carousel .slick-slider {
+  padding-bottom: 7%;
+}
+.ant-carousel .slick-dots li {
+  width: 20px;
+  height: 20px;
+  margin: 0 15px;
+}
+.ant-carousel .slick-dots li.slick-active button {
+  background: @heading-color;
+  border-radius: 20px;
+}
+.ant-carousel .slick-dots li button {
+  height: 20px;
+  background: @main;
+  border-radius: 20px;
+}
+.coming-list {
+  width: 60%;
+  margin: 15px auto;
+}
+.ant-list-vertical .ant-list-item-meta-title {
+  font-size: 24px;
+  font-family: 'DM Serif Display', serif;
+}
+.ant-pagination-disabled .ant-pagination-item-link {
+  color: @main;
+  &:hover {
+    background: @second;
+    color: #fff;
+  }
+}
+@media (max-width: 768px) {
+  .ant-carousel {
+    display: none;
+  }
+  .coming-list {
+    width: 90%;
+  }
+}

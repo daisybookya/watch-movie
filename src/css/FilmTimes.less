@@ -1,0 +1,48 @@
+@primary-color: #aa7714; // 全局主色
+@link-color: #a9d134; // 链接色
+@font-size-base: 15px; // 主字号
+@heading-color: #f8df8b; // 标题色
+@text-color: rgb(255, 255, 255); // 主文本色
+@text-color-secondary: rgba(255, 255, 255, 0.45); // 次文本色
+@main: #aa7714;
+@second: #6f9412;
+@bk: #333;
+@border-space: 3%;
+
+.film-times {
+  button {
+    margin: 10px;
+  }
+}
+.times-box {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  .ant-card {
+    margin-right: @border-space;
+  }
+}
+.ant-cascader-menu {
+  background: @bk;
+}
+.ant-select-arrow .anticon {
+  color: #fff;
+}
+.ant-cascader-menu-item:hover {
+  background: @second;
+}
+.ant-cascader-menu-item-active:not(.ant-cascader-menu-item-disabled),
+.ant-cascader-menu-item-active:not(.ant-cascader-menu-item-disabled):hover {
+  background: @main;
+}
+.ant-message-notice-content {
+  background: #fff;
+  color: red;
+}
+@media (max-width: 768px) {
+  .times-box {
+    .ant-card {
+      display: none;
+    }
+  }
+}

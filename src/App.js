@@ -1,25 +1,41 @@
-import logo from './logo.svg';
-import './App.css';
+import './css/App.less';
+import {Routes, Route, useNavigate} from 'react-router-dom';
+import routes from './router';
+import Header from './components/Header';
+import {useSelector, useDispatch} from 'react-redux';
+import {openMenu, closeMenu} from './slice/movieSlice';
+import {AlignLeftOutlined, CloseOutlined} from '@ant-design/icons';
 
-function App() {
+const App = () => {
+  const menuOpen = useSelector (state => state.movie.menuOpen);
+  const dispatch = useDispatch ();
+  const setMenu = () => {
+    if (menuOpen) {
+      dispatch (closeMenu ());
+    } else {
+      dispatch (openMenu ());
+    }
+  };
+  const navigate = useNavigate ();
+  const goHome = () => {
+    navigate ('/');
+  };
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className="menu-btn" onClick={setMenu}>
+        {menuOpen ? <CloseOutlined /> : <AlignLeftOutlined />}
+      </div>
+      <div className="logo" onClick={() => goHome ()}>
+        <span className="sp-font">Watch Movie</span>
+      </div>
+      <Header />
+      <Routes>
+        {routes.map ((r, i) => (
+          <Route element={r.component} key={i} path={r.path} />
+        ))}
+      </Routes>
     </div>
   );
-}
+};
 
 export default App;

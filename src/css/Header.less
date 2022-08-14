@@ -1,0 +1,53 @@
+@primary-color: #aa7714; // 全局主色
+@link-color: #a9d134; // 链接色
+@font-size-base: 15px; // 主字号
+@heading-color: #f8df8b; // 标题色
+@text-color: rgb(255, 255, 255); // 主文本色
+@text-color-secondary: rgba(255, 255, 255, 0.45); // 次文本色
+@main: #aa7714;
+@second: #6f9412;
+@bk: #333;
+@border-space: 3%;
+
+.header {
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: @bk;
+  text-align: left;
+  opacity: 0;
+  z-index: -1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.5s linear;
+  transform: scale(0.1, 1) rotate(180deg);
+  background: rgb(42, 42, 42);
+  background: linear-gradient(
+    43deg,
+    rgba(42, 42, 42, 1) 0%,
+    rgba(71, 71, 71, 1) 35%,
+    rgba(25, 25, 25, 1) 100%
+  );
+  &.active {
+    opacity: 1;
+    z-index: 20;
+    transform: scale(1, 1) rotate(0deg);
+  }
+}
+@item: 3;
+nav {
+  a {
+    display: block;
+    font-size: 40px;
+    color: @heading-color;
+    transition: all 0.3s ease-in-out;
+    &:hover {
+      color: @main;
+      transform: translateX(-30px);
+    }
+  }
+}

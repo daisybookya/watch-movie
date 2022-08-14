@@ -1,0 +1,71 @@
+@import '~antd/dist/antd.less';
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+
+@primary-color: #aa7714; // 全局主色
+@link-color: #a9d134; // 链接色
+@font-size-base: 15px; // 主字号
+@heading-color: #f8df8b; // 标题色
+@text-color: rgb(255, 255, 255); // 主文本色
+@text-color-secondary: rgba(255, 255, 255, 0.45); // 次文本色
+@main: #aa7714;
+@second: #6f9412;
+@bk: #222;
+@border-space: 3%;
+@body-background: transparent;
+// Base background color for most components
+@component-background: transparent;
+body {
+  background-color: @bk;
+  color: @text-color;
+}
+.sp-font {
+  font-family: 'DM Serif Display', serif;
+}
+.App {
+  overflow: hidden;
+  position: relative;
+  .logo {
+    position: fixed;
+    top: @border-space;
+    left: @border-space;
+    font-size: 30px;
+    color: @heading-color;
+    cursor: pointer;
+    z-index: 100;
+    &:hover {
+      color: @main;
+      span {
+        letter-spacing: 3px;
+      }
+    }
+    span {
+      transition: all 0.3s ease-in-out;
+    }
+  }
+}
+.ant-result {
+  margin-top: 5%;
+}
+.menu-btn {
+  position: fixed;
+  top: @border-space;
+  right: @border-space;
+  display: block;
+  padding: 12px;
+  border: @heading-color solid 1px;
+  border-radius: 100px;
+  z-index: 100;
+  cursor: pointer;
+  &:hover {
+    border-color: @main;
+    span {
+      color: @main;
+      transform: rotate(90deg);
+    }
+  }
+  span {
+    transition: all 0.3s ease-in-out;
+    font-size: 24px;
+    color: @heading-color;
+  }
+}
