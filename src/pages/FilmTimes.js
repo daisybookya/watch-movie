@@ -26,17 +26,20 @@ const FilmTimes = () => {
   const [filmType, setFilmType] = useState ('Standard'); // Standard,IMAX,3D
   const [inforOpen, setInforOpen] = useState (false);
   const [select, setSelect] = useState ([]);
+  const [selectedDate, setDate] = useState ('');
   const theMovie = useSelector (state => state.movie);
   const {list} = theMovie;
   const dispatch = useDispatch ();
+  const date = new Date ().toISOString ().slice (0, 10);
   const {TabPane} = Tabs;
   const {Title} = Typography;
-  const date = new Date ().toISOString ().slice (0, 10);
+
   const handleSelect = useCallback (
     () => {
       let result = [];
       const dates = Array.from ({length: 5}, (x, i) => {
         const _date = new Date ().getDate ();
+
         const dateValue = `${date.slice (0, -2)}${_date + i}`;
         return {value: dateValue, label: dateValue};
       });
@@ -91,11 +94,14 @@ const FilmTimes = () => {
       });
   };
   const onSelectChange = v => {
+    const _id = v[0];
+    const _date = v[1];
     if (!inforOpen) {
       setInforOpen (true);
     }
     setTimeOpen (true);
-    getInforTimes (v[0], v[1]);
+    getInforTimes (_id, _date);
+    setDate (_date);
   };
 
   return (
@@ -142,7 +148,7 @@ const FilmTimes = () => {
                       <Title level={3} className="sp-font">
                         {filmInfor.film.film_name}
                       </Title>
-                      <Title level={5}>Date:{date}</Title>
+                      <Title level={5}>Date:{selectedDate}</Title>
                       <p>
                         {item.showings[filmType].times.map ((t, i) => (
                           <Button key={i}>{t.start_time}</Button>
