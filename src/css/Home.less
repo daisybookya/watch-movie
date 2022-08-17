@@ -9,12 +9,45 @@
 @bk: #333;
 @border-space: 3%;
 
-.home {
+.home,
+.loading-box {
   overflow: hidden;
   width: 100vw;
   height: 100vh;
   text-align: left;
 }
+.loading-box {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99999;
+  background: @bk;
+  font-size: 2.5rem;
+  &.active {
+    display: flex;
+  }
+  span {
+    animation: flow-loading infinite 4s linear;
+  }
+}
+@keyframes flow-loading {
+  0% {
+    color: @primary-color;
+    letter-spacing: 0px;
+  }
+  50% {
+    color: @heading-color;
+    letter-spacing: 25px;
+  }
+  100% {
+    color: @second;
+    letter-spacing: 0px;
+  }
+}
+
 .flow-list {
   animation: flow-movie infinite 30s linear;
 }

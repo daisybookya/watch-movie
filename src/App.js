@@ -18,6 +18,7 @@ const App = () => {
   };
   const navigate = useNavigate ();
   const goHome = () => {
+    dispatch (closeMenu ());
     navigate ('/');
   };
   return (
