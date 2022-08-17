@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/watch-movie/static/css/main.20cbe383.css",
-    "main.js": "/watch-movie/static/js/main.c149da6d.js",
+    "main.css": "/watch-movie/static/css/main.d2d38fb4.css",
+    "main.js": "/watch-movie/static/js/main.50875f87.js",
     "index.html": "/watch-movie/index.html",
-    "main.20cbe383.css.map": "/watch-movie/static/css/main.20cbe383.css.map",
-    "main.c149da6d.js.map": "/watch-movie/static/js/main.c149da6d.js.map"
+    "main.d2d38fb4.css.map": "/watch-movie/static/css/main.d2d38fb4.css.map",
+    "main.50875f87.js.map": "/watch-movie/static/js/main.50875f87.js.map"
   },
   "entrypoints": [
-    "static/css/main.20cbe383.css",
-    "static/js/main.c149da6d.js"
+    "static/css/main.d2d38fb4.css",
+    "static/js/main.50875f87.js"
   ]
 }
