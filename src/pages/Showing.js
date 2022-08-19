@@ -87,6 +87,7 @@ const Showing = () => {
           md: 4,
           lg: 4,
           xl: 5,
+          xxl: 6,
         }}
         dataSource={list}
         renderItem={item => (

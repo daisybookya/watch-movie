@@ -5,7 +5,7 @@ import {
   Col,
   Row,
   Image,
-  Spin,
+  Skeleton,
   List,
   Divider,
   BackTop,
@@ -39,7 +39,9 @@ const Coming = () => {
       } catch (err) {
         console.error (err);
       }
-      setLoading (false);
+      setTimeout (() => {
+        setLoading (false);
+      }, 400);
     },
     [dispatch]
   );
@@ -81,7 +83,7 @@ const Coming = () => {
         name={detail.film_name ? detail.film_name : ''}
       />
       <div className="coming">
-        <Spin tip="Loading..." spinning={loading}>
+        <Skeleton active loading={loading}>
           <Carousel>
             {slideList.map ((item, i) => (
               <div key={i}>
@@ -99,7 +101,12 @@ const Coming = () => {
                             onClick={() => getTrailer (v)}
                             src={v.images.poster['1'].medium.film_image}
                             preview={false}
-                            placeholder={process.env.PUBLIC_URL + '/subimg.jpg'}
+                            placeholder={
+                              <Image
+                                preview={false}
+                                src={process.env.PUBLIC_URL + '/subimg.jpg'}
+                              />
+                            }
                           />
                         : <Image
                             onClick={() => getTrailer (v)}
@@ -113,36 +120,39 @@ const Coming = () => {
               </div>
             ))}
           </Carousel>
-        </Spin>
+        </Skeleton>
         <Divider style={{borderColor: '#fff'}}>Movie List</Divider>
         <List
           className="coming-list"
-          loading={loading}
           pagination={{
             pageSize: 5,
           }}
           itemLayout="vertical"
           dataSource={filmList}
           renderItem={item => (
-            <List.Item
-              actions={[
-                <Button onClick={() => getInfor (item)}>See Synopsis</Button>,
-                <Button onClick={() => getTrailer (item)}>Film Trailer</Button>,
-              ]}
-              extra={
-                <img
-                  width={150}
-                  alt="poster"
-                  src={item.images.poster['1'].medium.film_image}
+            <Skeleton loading={loading} active avatar>
+              <List.Item
+                actions={[
+                  <Button onClick={() => getInfor (item)}>See Synopsis</Button>,
+                  <Button onClick={() => getTrailer (item)}>
+                    Film Trailer
+                  </Button>,
+                ]}
+                extra={
+                  <img
+                    width={150}
+                    alt="poster"
+                    src={item.images.poster['1'].medium.film_image}
+                  />
+                }
+              >
+                <List.Item.Meta
+                  title={`${item.film_name}`}
+                  description={`Release:${item.release_dates[0].release_date}`}
                 />
-              }
-            >
-              <List.Item.Meta
-                title={`${item.film_name}`}
-                description={`Release:${item.release_dates[0].release_date}`}
-              />
-              <div>{item.synopsis_long.slice (0, 150)}...</div>
-            </List.Item>
+                <div>{item.synopsis_long.slice (0, 150)}...</div>
+              </List.Item>
+            </Skeleton>
           )}
         />
       </div>

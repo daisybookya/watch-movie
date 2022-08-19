@@ -76,7 +76,12 @@ const Home = () => {
                     ? <Image
                         src={v.images.poster['1'].medium.film_image}
                         preview={false}
-                        placeholder={process.env.PUBLIC_URL + '/subimg.jpg'}
+                        placeholder={
+                          <Image
+                            preview={false}
+                            src={process.env.PUBLIC_URL + '/subimg.jpg'}
+                          />
+                        }
                       />
                     : <Image
                         src={process.env.PUBLIC_URL + '/subimg.jpg'}
