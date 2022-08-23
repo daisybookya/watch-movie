@@ -2,7 +2,7 @@ import axios from 'axios';
 //https://developer.movieglu.com/v2/api-index/setup/
 //Format: yyyy-mm-ddThh:mm:ss
 
-const getTime = new Date ().toISOString ();
+const getTime = new Date ().toISOString (); //match Format
 const fetchUrl = axios.create ({
   baseURL: 'https://api-gate2.movieglu.com/',
   timeout: 5000,
