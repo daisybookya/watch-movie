@@ -16,24 +16,6 @@ const fetchUrl = axios.create ({
     'device-datetime': getTime,
   },
 });
-// for Test
-// const tempUrl = axios.create ({
-//   baseURL: `https://api-gate2.movieglu.com/`,
-//   timeout: 3000,
-//   headers: {
-//     client: 'LEAR_11',
-//     'x-api-key': 'cGlJKwkLoiWU6eR5jD8174TqsUKyQa9aCTGfkFlg',
-//     authorization: 'Basic TEVBUl8xMV9YWDp4akw3bkR1ZTJYUG4=',
-//     territory: 'XX',
-//     'api-version': 'v200',
-//     geolocation: '-22.0;14.0',
-//     'device-datetime': getTime,
-//   },
-// });
-// const tempUrl2 = axios.create ({
-//   baseURL: `${process.env.PUBLIC_URL}`,
-//   timeout: 3000,
-// });
 
 export const getShowFilms = (num = 25) => {
   //`home-data.json`
