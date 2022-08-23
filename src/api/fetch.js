@@ -5,7 +5,7 @@ import axios from 'axios';
 const getTime = new Date ().toISOString ();
 const fetchUrl = axios.create ({
   baseURL: 'https://api-gate2.movieglu.com/',
-  timeout: 3000,
+  timeout: 5000,
   headers: {
     client: 'LEAR_11',
     'x-api-key': 'gtO3CVKGny4TpTTGqVXLt1DAy3zkhBJd3YcfK6bS',

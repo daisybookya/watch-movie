@@ -16,22 +16,23 @@ const Home = () => {
   const navigate = useNavigate ();
   useEffect (
     () => {
-      const fetchData = async () => {
-        try {
-          const respData = await getShowFilms ();
-          const theList = handleData (respData.films);
-          //console.log (theList);
-          setFlowList (theList);
-          dispatch (addList (respData.films));
-          setError (false);
-          setTimeout (() => {
+      const fetchData = () => {
+        getShowFilms ()
+          .then (resp => {
+            const theList = handleData (resp.films);
+            // console.log (theList);
+            setFlowList (theList);
+            dispatch (addList (resp.films));
+            setError (false);
+            setTimeout (() => {
+              setLoading (false);
+            }, 500);
+          })
+          .catch (err => {
+            console.error (err);
             setLoading (false);
-          }, 500);
-        } catch (err) {
-          console.error (err);
-          setLoading (false);
-          setError (true);
-        }
+            setError (true);
+          });
       };
       if (list.length === 0) {
         setLoading (true);

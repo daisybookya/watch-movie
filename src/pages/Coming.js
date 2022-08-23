@@ -41,7 +41,7 @@ const Coming = () => {
       }
       setTimeout (() => {
         setLoading (false);
-      }, 400);
+      }, 600);
     },
     [dispatch]
   );
@@ -113,7 +113,11 @@ const Coming = () => {
                             src={process.env.PUBLIC_URL + '/subimg.jpg'}
                             preview={false}
                           />}
-                      <span className="sp-font">{v.film_name}</span>
+                      <span className="sp-font">
+                        {v.film_name.length > 30
+                          ? `${v.film_name.slice (0, 30)}...`
+                          : v.film_name}
+                      </span>
                     </Col>
                   ))}
                 </Row>
