@@ -3,22 +3,19 @@ import {
   Card,
   Button,
   Skeleton,
-  Alert,
   Tabs,
   Typography,
   message,
   Cascader,
 } from 'antd';
 import {Layout} from '../components/Layout';
-import {useSelector, useDispatch} from 'react-redux';
+import {useDispatch} from 'react-redux';
 import {useEffect, useState, useCallback} from 'react';
-import {getShowFilms, getFilmTimes} from '../api/fetch';
-import {addList} from '../slice/movieSlice';
-
+import {getOldMovieList, getFakeFilmTimes} from '../api/fetch';
+import {isValidDate, getDate} from '../utility';
 const FilmTimes = () => {
   const [loading, setLoading] = useState (false);
   const [timeOpen, setTimeOpen] = useState (false);
-  const [error, setError] = useState (false);
   const [filmInfor, setFilmInfor] = useState ({
     film: {images: {poster: {}}},
     cinemas: [],
@@ -27,58 +24,53 @@ const FilmTimes = () => {
   const [inforOpen, setInforOpen] = useState (false);
   const [select, setSelect] = useState ([]);
   const [selectedDate, setDate] = useState ('');
-  const theMovie = useSelector (state => state.movie);
-  const {list} = theMovie;
   const dispatch = useDispatch ();
-  const date = new Date ().toISOString ().slice (0, 10);
   const {TabPane} = Tabs;
   const {Title} = Typography;
 
-  const handleSelect = useCallback (
-    () => {
-      let result = [];
-      const dates = Array.from ({length: 5}, (x, i) => {
-        const _date = new Date ().getDate ();
-
-        const dateValue = `${date.slice (0, -2)}${_date + i}`;
-        return {value: dateValue, label: dateValue};
-      });
-
-      if (list.length > 0) {
-        list.forEach (item => {
-          result.push ({
-            value: item.film_id,
-            label: item.film_name,
-            children: dates,
-          });
-        });
+  const handleSelect = useCallback (() => {
+    let result = [];
+    const year = getDate ('y');
+    let month = getDate ('m');
+    let day = getDate ('d');
+    let d = 0;
+    //isValidDate
+    const dates = Array.from ({length: 4}, (x, i) => {
+      let days = `${day + d}`.length === 1 ? `0${day + d}` : `${day + d}`;
+      let dateValue = `${year}-0${month}-${days}`;
+      if (isValidDate (dateValue)) {
+        d++;
+      } else {
+        d = 1;
+        day = 0;
+        month += 1;
+        dateValue = `${year}-0${month}-0${d}`;
+        d++;
       }
-      return result;
-    },
-    [list, date]
-  );
+      return {value: dateValue, label: dateValue};
+    });
+    const list = getOldMovieList ();
+    list.forEach (item => {
+      result.push ({
+        value: item.film_id,
+        label: item.film_name,
+        children: dates,
+      });
+    });
+    return result;
+  }, []);
   useEffect (
     () => {
-      if (list.length === 0) {
-        setLoading (true);
-        try {
-          getShowFilms ().then (resp => {
-            dispatch (addList (resp.films));
-          });
-        } catch (err) {
-          console.error (err);
-          setError (true);
-        }
-        setLoading (false);
-      }
+      setLoading (true);
       const data = handleSelect ();
       setSelect (data);
+      setLoading (false);
     },
-    [dispatch, list.length, handleSelect]
+    [dispatch, handleSelect]
   );
   const getInforTimes = (filmId, date) => {
     const id = filmId;
-    getFilmTimes ({id, date})
+    getFakeFilmTimes ({id, date})
       .then (resp => {
         const {film, cinemas} = resp;
         const types = Object.keys (cinemas[0].showings);
@@ -110,19 +102,12 @@ const FilmTimes = () => {
         <Skeleton active loading={loading}>
           <Card title="Now Showing Movie List" bordered={false}>
             Select Movie Name and Date /
-            {error
-              ? <Alert
-                  message="Error"
-                  description="Fetching API data is error."
-                  type="error"
-                  showIcon
-                />
-              : <Cascader
-                  style={{width: '50%'}}
-                  options={select}
-                  onChange={onSelectChange}
-                  placeholder="Please select Movie"
-                />}
+            <Cascader
+              style={{width: '50%'}}
+              options={select}
+              onChange={onSelectChange}
+              placeholder="Please select Movie"
+            />
           </Card>
         </Skeleton>
         {inforOpen

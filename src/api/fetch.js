@@ -16,22 +16,39 @@ const fetchUrl = axios.create ({
     'device-datetime': getTime,
   },
 });
-
+//sand box
+const tempUrl = axios.create ({
+  baseURL: `https://api-gate2.movieglu.com/`,
+  timeout: 3000,
+  headers: {
+    client: 'LEAR_11',
+    'x-api-key': 'cGlJKwkLoiWU6eR5jD8174TqsUKyQa9aCTGfkFlg',
+    authorization: 'Basic TEVBUl8xMV9YWDp4akw3bkR1ZTJYUG4=',
+    territory: 'XX',
+    'api-version': 'v200',
+    geolocation: '-22.0;14.0',
+    'device-datetime': getTime,
+  },
+});
+const tempUrl2 = axios.create ({
+  baseURL: `${process.env.PUBLIC_URL}`,
+  timeout: 3000,
+});
 export const getShowFilms = (num = 25) => {
-  //`home-data.json`
+  //`filmsNowShowing/?n=${num}`
   return new Promise ((resolve, reject) => {
-    fetchUrl
-      .get (`filmsNowShowing/?n=${num}`)
+    tempUrl2
+      .get (`home-data.json`)
       .then (resp => resolve (resp.data))
       .catch (err => reject (err));
   });
 };
 
 export const getComingFilms = (num = 15) => {
-  //`coming-data.json`
+  //`filmsComingSoon/?n=${num}`
   return new Promise ((resolve, reject) => {
-    fetchUrl
-      .get (`filmsComingSoon/?n=${num}`)
+    tempUrl2
+      .get (`coming-data.json`)
       .then (resp => resolve (resp.data))
       .catch (err => reject (err));
   });
@@ -44,4 +61,42 @@ export const getFilmTimes = ({id, date, num = 3}) => {
       .then (resp => resolve (resp.data))
       .catch (err => reject (err));
   });
+};
+export const getFakeFilmTimes = ({id, date, num = 3}) => {
+  return new Promise ((resolve, reject) => {
+    tempUrl
+      .get (`filmShowTimes/?n=${num}&film_id=${id}&date=${date}`)
+      .then (resp => resolve (resp.data))
+      .catch (err => reject (err));
+  });
+};
+
+export const getOldMovieList = () => {
+  const data = [
+    {
+      film_id: '59906',
+      film_name: 'There will be Blood',
+    },
+    {
+      film_id: '3427',
+      film_name: 'From Dusk Till Dawn',
+    },
+    {
+      film_id: '4167',
+      film_name: 'Woman in the Dunes',
+    },
+    {
+      film_id: '6650',
+      film_name: 'The English Patient',
+    },
+    {
+      film_id: '7772',
+      film_name: 'Raiders of the Lost Ark',
+    },
+    {
+      film_id: '21448',
+      film_name: 'Three Kings',
+    },
+  ];
+  return data;
 };

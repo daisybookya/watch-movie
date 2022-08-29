@@ -13,7 +13,7 @@ const About = () => {
     },
     {
       title: 'Film Show Times',
-      intro: '可查詢美國(United States)現正上映中電影的場次。電影院場次預設以美國紐約古根漢美術館附近的三家電影院為主',
+      intro: '可查詢美國(United States)現正上映中電影的場次。電影院場次使用舊電影列表來模擬',
     },
   ];
   return (

@@ -8,3 +8,27 @@ export function handleData (data, row = 5, num = 5) {
   }
   return dataList;
 }
+
+export function isValidDate (date) {
+  const status = Date.parse (date);
+  if (isNaN (status)) {
+    return false;
+  }
+  return true;
+}
+
+export function getDate (type = 'y') {
+  const date = new Date ();
+  const allDate = {
+    y: () => {
+      return date.getFullYear ();
+    },
+    m: () => {
+      return date.getMonth () + 1;
+    },
+    d: () => {
+      return date.getDate ();
+    },
+  };
+  return allDate[type] ();
+}
