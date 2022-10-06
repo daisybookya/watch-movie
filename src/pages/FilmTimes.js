@@ -30,21 +30,22 @@ const FilmTimes = () => {
 
   const handleSelect = useCallback (() => {
     let result = [];
-    const year = getDate ('y');
-    let month = getDate ('m');
+    const _year = getDate ('y');
+    let _month = getDate ('m');
     let day = getDate ('d');
     let d = 0;
     //isValidDate
     const dates = Array.from ({length: 4}, (x, i) => {
       let days = `${day + d}`.length === 1 ? `0${day + d}` : `${day + d}`;
-      let dateValue = `${year}-0${month}-${days}`;
+      let month = `${_month}`.length === 1 ? `0${_month}` : `${_month}`;
+      let dateValue = `${_year}-${month}-${days}`;
       if (isValidDate (dateValue)) {
         d++;
       } else {
         d = 1;
         day = 0;
         month += 1;
-        dateValue = `${year}-0${month}-0${d}`;
+        dateValue = `${_year}-${month}-0${d}`;
         d++;
       }
       return {value: dateValue, label: dateValue};
