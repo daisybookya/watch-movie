@@ -23,7 +23,7 @@ export function Layout (props) {
   }, []);
   return (
     <div className="layout">
-      <div align="center" style={{margin: '5% 0'}}>
+      <div align="center" class="title-box">
         <Title level={2} className="sp-font">{pageTitle ()}</Title>
       </div>
       {props.children}

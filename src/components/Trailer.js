@@ -28,9 +28,7 @@ export function Trailer (props) {
     setVol (volume);
   };
   return (
-    <div
-      className={`index-movie ${props.show ? 'index-movie active' : 'index-movie'}`}
-    >
+    <div className={`${props.show ? 'index-movie active' : 'index-movie'}`}>
       <div className="trailer-box">
         <div className="description">
           <span>Trailer-</span>
@@ -42,7 +40,12 @@ export function Trailer (props) {
           </Button>
         </div>
         <div>
-          <ReactPlayer url={props.url} playing={isPlay} volume={vol} />
+          <ReactPlayer
+            url={props.url}
+            playing={isPlay}
+            volume={vol}
+            width={'100%'}
+          />
           <div className="control-list">
             <Button type="primary" onClick={() => setPLay (true)}>
               Play<CaretRightOutlined />

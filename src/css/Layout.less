@@ -11,6 +11,9 @@
 .layout {
   width: 100vw;
   padding: 5%;
+  .title-box {
+    margin-top: 5rem;
+  }
 }
 .footer {
   margin-top: 15px;
@@ -19,4 +22,15 @@
 .about {
   width: 70%;
   margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .layout {
+    .title-box {
+      margin-top: 10rem;
+    }
+  }
+  .about {
+    width: 90%;
+    margin: 1rem auto;
+  }
 }
