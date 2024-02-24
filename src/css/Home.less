@@ -1,10 +1,10 @@
-@primary-color: #aa7714; // 全局主色
+@primary-color: #1444aa; // 全局主色
 @link-color: #a9d134; // 链接色
 @font-size-base: 15px; // 主字号
 @heading-color: #f8df8b; // 标题色
 @text-color: rgb(255, 255, 255); // 主文本色
 @text-color-secondary: rgba(255, 255, 255, 0.45); // 次文本色
-@main: #aa7714;
+@main: #1444aa;
 @second: #6f9412;
 @bk: #333;
 @border-space: 3%;
@@ -50,12 +50,18 @@
 
 .flow-list {
   animation: flow-movie infinite 30s linear;
+  &:hover {
+    animation-play-state: paused;
+  }
 }
 .ant-col {
   &:nth-child(even) {
     .flow-list {
       animation: flow-movie2 infinite 30s linear;
       animation-direction: reverse;
+      &:hover {
+        animation-play-state: paused;
+      }
     }
   }
 }

@@ -66,7 +66,9 @@ const Showing = () => {
         }
       >
         {detail.film_trailer
-          ? <Button onClick={() => getTrailer ()}>Film Trailer</Button>
+          ? <Button className="btn-trailer" onClick={() => getTrailer ()}>
+              Film Trailer
+            </Button>
           : ''}
         <p style={{marginTop: '10px'}}>
           {detail.synopsis_long ? detail.synopsis_long : ''}
@@ -82,12 +84,12 @@ const Showing = () => {
         loading={loading}
         grid={{
           gutter: 24,
-          xs: 1,
+          xs: 2,
           sm: 2,
           md: 4,
           lg: 4,
           xl: 5,
-          xxl: 6,
+          xxl: 7,
         }}
         dataSource={list}
         renderItem={item => (

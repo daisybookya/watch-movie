@@ -4,13 +4,15 @@ import {Typography} from 'antd';
 const {Title} = Typography;
 export function IndexMovie (props) {
   return (
-    <div className={`${props.show ? 'index-movie active' : 'index-movie'}`}>
+    <div
+      className={`${props.show ? 'index-movie intro active' : 'index-movie intro'}`}
+    >
       <Row>
         <Col
-          xs={{span: 20, offset: 1}}
+          xs={{span: 7, offset: 1}}
           md={{span: 7, offset: 1}}
           lg={{span: 7, offset: 2}}
-          xl={{span: 4, offset: 6}}
+          xl={{span: 4, offset: 4}}
         >
           <Image
             src={props.img}
@@ -20,10 +22,10 @@ export function IndexMovie (props) {
 
         </Col>
         <Col
-          xs={{span: 20, offset: 2}}
+          xs={{span: 14, offset: 1}}
           md={{span: 13, offset: 1}}
           lg={{span: 12, offset: 1}}
-          xl={{span: 9}}
+          xl={{span: 12}}
           style={{paddingLeft: '1%'}}
         >
           <Button type="primary" className="close-btn" onClick={props.close}>

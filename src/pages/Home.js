@@ -19,8 +19,8 @@ const Home = () => {
       const fetchData = () => {
         getShowFilms ()
           .then (resp => {
-            const theList = handleData (resp.films);
-            // console.log (theList);
+            const theList = handleData (resp.films, 6);
+            //console.log ('fetch');
             setFlowList (theList);
             dispatch (addList (resp.films));
             setError (false);
@@ -38,7 +38,7 @@ const Home = () => {
         setLoading (true);
         fetchData ();
       } else {
-        const theList = handleData (list);
+        const theList = handleData (list, 6);
         setFlowList (theList);
       }
       dispatch (close ());
@@ -63,7 +63,11 @@ const Home = () => {
       <div className={`loading-box ${isLoading ? 'active' : ''}`}>
         <span className="sp-font">Watch Movie</span>
       </div>
-      <Row justify="center" align="top" gutter={[24, 24]}>
+      <Row
+        justify="center"
+        align="top"
+        gutter={[{xs: 8, sm: 16, md: 24, lg: 8}, 8]}
+      >
         {flowList.map ((item, i) => (
           <Col xs={12} sm={12} md={8} lg={6} xl={4} key={`item-${i}`}>
             <div className="flow-list">

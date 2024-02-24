@@ -1,10 +1,10 @@
-@primary-color: #aa7714; // 全局主色
+@primary-color: #1444aa; // 全局主色
 @link-color: #a9d134; // 链接色
 @font-size-base: 15px; // 主字号
 @heading-color: #f8df8b; // 标题色
 @text-color: rgb(255, 255, 255); // 主文本色
 @text-color-secondary: rgba(255, 255, 255, 0.45); // 次文本色
-@main: #aa7714;
+@main: #1444aa;
 @second: #6f9412;
 @bk: #333;
 @border-space: 3%;
@@ -15,7 +15,12 @@
 }
 .close-btn {
   float: right;
-  margin-top: 10px;
+  position: relative;
+  right: auto;
+  border-radius: 50px;
+  height: 40px;
+  background: @heading-color;
+  color: @main;
   vertical-align: middle;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -23,8 +28,8 @@
   width: 100%;
   opacity: 0;
   padding: @border-space;
-  transition: all 0.5s ease-in-out;
-  background: rgba(128, 81, 11, 0.9);
+  transition: all 0.2s ease-in-out;
+  background: rgba(37, 56, 97, 0.9);
   position: absolute;
   left: 0;
   top: 10%;
@@ -35,21 +40,58 @@
     opacity: 1;
     z-index: 18;
   }
+  h2.ant-typography {
+    margin-bottom: 10px;
+  }
   .ant-row > .ant-col:first-child {
     text-align: right;
+  }
+  .summary {
+    margin: 20px 0;
+  }
+}
+.player-wrapper {
+  position: relative;
+  width: 50%;
+  margin: 0 auto;
+  //padding-top: 56.25%; /* 720 / 1280 = 0.5625 */
+}
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.btn-trailer {
+  &:hover {
+    border-color: @heading-color;
+    color: @heading-color;
   }
 }
 .trailer-box {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   .description {
     margin-right: @border-space;
+    margin-bottom: 1%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
   }
   .control-list {
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    position: absolute;
+    bottom: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: @main;
+    transition: all 0.15s ease-in;
+    background: rgba(20, 68, 170, 0.7);
+    &:hover {
+      opacity: 1;
+    }
     button {
       margin: 0 5px;
       border-radius: 0;
@@ -58,6 +100,10 @@
       margin: 0 10px;
       display: flex;
       align-items: center;
+    }
+    .muted {
+      display: inline-block;
+      cursor: pointer;
     }
   }
 }
@@ -128,68 +174,51 @@
     color: #fff;
   }
 }
-@media (max-width: 768px) {
-  .ant-carousel {
-    display: none;
-  }
-  .coming-list {
-    width: 90%;
-  }
-  .ant-card-meta-title {
-    font-size: 1.5rem;
-  }
-  h2.ant-typography {
-    margin-bottom: 0;
-    clear: both;
-  }
-  .trailer-box {
-    display: block;
-    h2.ant-typography {
-      margin-bottom: 1rem;
-    }
-    .close-btn {
-      float: none;
-      position: absolute;
-      top: 1rem;
-      right: 1rem;
-    }
-    .control-list {
-      margin-bottom: 1rem;
-      background: none;
-    }
-  }
-}
-@media (max-width: 500px) {
-  .trailer-box {
-    .close-btn {
-      position: relative;
-      top: auto;
-      right: auto;
-    }
-  }
-}
 @media (max-width: 996px) and (orientation: landscape) {
-  .index-movie {
-    top: 0;
-    height: 100vh;
-    padding: 10vh 0;
+  .player-wrapper {
+    position: relative;
+    width: 80%;
   }
-  .summary {
-    height: 45%;
-    overflow-y: scroll;
+  h2.ant-typography,
+  div.ant-typography-h2,
+  div.ant-typography-h2 > textarea,
+  .ant-typography h2 {
+    font-size: 24px;
+  }
+  h4.ant-typography {
+    font-size: 18px;
   }
 }
 
-@media (max-width: 500px) {
-  .index-movie {
-    .ant-row > .ant-col:first-child {
-      display: none;
-      padding: 2rem 0;
-      text-align: center;
+@media (max-width: 768px) {
+  h2.ant-typography {
+    font-size: 24px;
+  }
+  .trailer-box {
+    .description {
+      flex-direction: column;
     }
+    .close-btn {
+      position: absolute;
+      right: @border-space;
+    }
+  }
+  .player-wrapper {
+    position: relative;
+    width: 100%;
+    //padding-top: 56.25%; /* 720 / 1280 = 0.5625 */
+  }
+
+  .index-movie {
+    top: 0;
+    height: 100vh;
+    padding: 15vh @border-space;
+    display: flex;
+    justify-content: center;
   }
   .summary {
     height: auto;
+    max-height: 50vh;
     overflow-y: scroll;
   }
 }

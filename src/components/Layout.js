@@ -22,12 +22,12 @@ export function Layout (props) {
     backTop ();
   }, []);
   return (
-    <div className="layout">
-      <div align="center" class="title-box">
+    <div className="layout" style={props.style}>
+      <div align="center" className="title-box">
         <Title level={2} className="sp-font">{pageTitle ()}</Title>
       </div>
       {props.children}
-      <div className="footer">ChengCheng Design ©2022 Created by Cheng</div>
+      <div className="footer">ChengCheng Design ©2024 Created by Cheng</div>
     </div>
   );
 }

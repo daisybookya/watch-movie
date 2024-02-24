@@ -1,13 +1,13 @@
 @import '~antd/dist/antd.less';
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
 
-@primary-color: #aa7714; // 全局主色
+@primary-color: #1444aa; // 全局主色
 @link-color: #a9d134; // 链接色
 @font-size-base: 15px; // 主字号
 @heading-color: #f8df8b; // 标题色
 @text-color: rgb(255, 255, 255); // 主文本色
 @text-color-secondary: rgba(255, 255, 255, 0.45); // 次文本色
-@main: #aa7714;
+@main: #3f6ccd;
 @second: #6f9412;
 @bk: #222;
 @border-space: 3%;
@@ -17,6 +17,11 @@
 body {
   background-color: @bk;
   color: @text-color;
+  a {
+    &:hover {
+      color: @main;
+    }
+  }
 }
 .sp-font {
   font-family: 'DM Serif Display', serif;

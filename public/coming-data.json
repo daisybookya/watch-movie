@@ -1,14 +1,149 @@
 {
     "films": [
         {
-            "film_id": 333203,
-            "imdb_id": 14614892,
-            "imdb_title_id": "tt14614892",
-            "film_name": "Dragon Ball Super: Super Hero",
+            "film_id": 324892,
+            "imdb_id": 15239678,
+            "imdb_title_id": "tt15239678",
+            "film_name": "Dune: Part Two",
             "other_titles": null,
             "release_dates": [
                 {
-                    "release_date": "2022-08-19",
+                    "release_date": "2024-03-01",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for sequences of strong violence, some suggestive material and brief strong language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/324892_high_V3.mp4",
+            "synopsis_long": "\"Dune: Part Two\" will explore the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, he endeavors to prevent a terrible future only he can foresee.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/324892/324892h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/324892/324892h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 336162,
+            "imdb_id": 21692408,
+            "imdb_title_id": "tt21692408",
+            "film_name": "Kung Fu Panda 4",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2024-03-08",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": "for martial arts action/mild violence, scary images and some mild rude humor."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/336162_high.mp4",
+            "synopsis_long": "After three death-defying adventures defeating world-class villains with his unmatched courage and mad martial arts skills, Po, the Dragon Warrior (Golden Globe nominee Jack Black), is called upon by destiny to... give it a rest already. More specifically, he's tapped to become the Spiritual Leader of the Valley of Peace.That poses a couple of obvious problems. First, Po knows as much about spiritual leadership as he does about the paleo diet, and second, he needs to quickly find and train a new Dragon Warrior before he can assume his new lofty position. Even worse, there's been a recent sighting of a wicked, powerful sorceress, Chameleon (Oscar® winner Viola Davis), a tiny lizard who can shapeshift into any creature, large or small. And Chameleon has her greedy, beady little eyes on Po's Staff of Wisdom, which would give her the power to re-summon all the master villains whom Po has vanquished to the spirit realm. Po must team up with the quick-witted thief Zhen in order to protect the Valley of Peace from Chameleon's claws.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/336162/336162h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/336162/336162h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 348914,
+            "imdb_id": 14351082,
+            "imdb_title_id": "tt14351082",
+            "film_name": "Cabrini",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2024-03-08",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for thematic material, some violence, language and smoking."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/348914_high_V2.mp4",
+            "synopsis_long": "From Alejandro Monteverde, award-winning director of \"Sound of Freedom,\" comes the powerful epic of Francesca Cabrini, an Italian immigrant who arrives in New York City in 1889 and is greeted by disease, crime, and impoverished children. Cabrini sets off on a daring mission to convince the hostile mayor to secure housing and healthcare for society's most vulnerable. With broken English and poor health, Cabrini uses her entrepreneurial mind to build an empire of hope unlike anything the world had ever seen.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/348914/348914h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/348914/348914h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 347015,
+            "imdb_id": 26658104,
+            "imdb_title_id": "tt26658104",
+            "film_name": "Imaginary",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2024-03-08",
                     "notes": "Limited"
                 }
             ],
@@ -16,53 +151,18 @@
                 {
                     "rating": "PG-13 ",
                     "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
-                    "age_advisory": "for some action/violence and smoking."
+                    "age_advisory": "for some violent content, drug material and language."
                 }
             ],
-            "film_trailer": "https://trailer.movieglu.com/333203_high.mp4",
-            "synopsis_long": "The Red Ribbon Army was once destroyed by Son Goku. Individuals who carry on its spirit have created the ultimate Androids, Gamma 1 and Gamma 2. These two Androids call themselves \"Super Heroes.\" They start attacking Piccolo and Gohan. What is the New Red Ribbon Army's objective? In the face of approaching danger, it is time to awaken - Super Hero!",
+            "film_trailer": "https://trailer.movieglu.com/347015_high_V2.mp4",
+            "synopsis_long": "When Jessica (DeWanda Wise) moves back into her childhood home with her family, her youngest stepdaughter Alice (Pyper Braun) develops an eerie attachment to a stuffed bear named Chauncey she finds in the basement. Alice starts playing games with Chauncey that begin playful and become increasingly sinister. As Alice's behavior becomes more and more concerning, Jessica intervenes only to realize Chauncey is much more than the stuffed toy bear she believed him to be.",
             "images": {
                 "poster": {
                     "1": {
                         "image_orientation": "portrait",
                         "region": "global",
                         "medium": {
-                            "film_image": "https://image.movieglu.com/333203/333203h1.jpg",
-                            "width": 200,
-                            "height": 300
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "film_id": 318783,
-            "imdb_id": 13223398,
-            "imdb_title_id": "tt13223398",
-            "film_name": "Beast",
-            "other_titles": null,
-            "release_dates": [
-                {
-                    "release_date": "2022-08-19",
-                    "notes": "Nationwide"
-                }
-            ],
-            "age_rating": [
-                {
-                    "rating": "R ",
-                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
-                    "age_advisory": "for violent content, bloody images and some language."
-                }
-            ],
-            "film_trailer": "https://trailer.movieglu.com/318783_high.mp4",
-            "synopsis_long": "Dr. Nate Samuels, a recently widowed husband returns to South Africa, where he first met his wife, on a long-planned trip with their daughters to a game reserve. But what begins as a journey of healing jolts into a fearsome fight for survival when a lion, a survivor of blood-thirsty poachers who now sees all humans as the enemy, begins stalking them.",
-            "images": {
-                "poster": {
-                    "1": {
-                        "image_orientation": "portrait",
-                        "region": "global",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/318783/318783h1.jpg",
+                            "film_image": "https://image.movieglu.com/347015/347015h1.jpg",
                             "width": 200,
                             "height": 300
                         }
@@ -72,7 +172,7 @@
                     "1": {
                         "image_orientation": "landscape",
                         "medium": {
-                            "film_image": "https://image.movieglu.com/318783/318783h2.jpg",
+                            "film_image": "https://image.movieglu.com/347015/347015h2.jpg",
                             "width": 300,
                             "height": 200
                         }
@@ -81,342 +181,33 @@
             }
         },
         {
-            "film_id": 333581,
-            "imdb_id": 15325794,
-            "imdb_title_id": "tt15325794",
-            "film_name": "Fall",
+            "film_id": 352885,
+            "imdb_id": null,
+            "imdb_title_id": null,
+            "film_name": "The Chosen: Season 4 Episodes 7-8",
             "other_titles": null,
             "release_dates": [
                 {
-                    "release_date": "2022-08-12",
-                    "notes": "Nationwide"
-                }
-            ],
-            "age_rating": [
-                {
-                    "rating": "PG-13 ",
-                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
-                    "age_advisory": "for bloody images, intense peril, and strong language."
-                }
-            ],
-            "film_trailer": "https://trailer.movieglu.com/333581_high_V2.mp4",
-            "synopsis_long": "For best friends Becky and Hunter, life is all about conquering fears and pushing limits. But after they climb 2,000 feet to the top of a remote, abandoned radio tower, they find themselves stranded with no way down. Now Becky and Hunter's expert climbing skills will be put to the ultimate test as they desperately fight to survive the elements, a lack of supplies, and vertigo-inducing heights in this adrenaline-fueled thriller.",
-            "images": {
-                "poster": {
-                    "1": {
-                        "image_orientation": "portrait",
-                        "region": "global",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/333581/333581h1.jpg",
-                            "width": 200,
-                            "height": 300
-                        }
-                    }
-                },
-                "still": {
-                    "1": {
-                        "image_orientation": "landscape",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/333581/333581h2.jpg",
-                            "width": 300,
-                            "height": 200
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "film_id": 331973,
-            "imdb_id": 14330236,
-            "imdb_title_id": "tt14330236",
-            "film_name": "Mack & Rita",
-            "other_titles": null,
-            "release_dates": [
-                {
-                    "release_date": "2022-08-12",
-                    "notes": "Nationwide"
-                }
-            ],
-            "age_rating": [
-                {
-                    "rating": "PG-13 ",
-                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
-                    "age_advisory": "for some drug use, sexual references and language."
-                }
-            ],
-            "film_trailer": "https://trailer.movieglu.com/331973_high.mp4",
-            "synopsis_long": "The indie, which will be helmed by actor-filmmaker Katie Aselton, stars Elizabeth Lail as Mackenze, a disillusioned 30-something who is exhausted by societal demands and wishes to be comfortable in her skin like her grandmother.  While at her best friend's bachelorette party, she stumbles into a \"sound bath regression pod\" and emerges as a 70-year-old (Keaton), \"Aunt Rita,\" soon realizing that the acceptance she craves from those around her is unlikely to come as quickly.",
-            "images": {
-                "poster": {
-                    "1": {
-                        "image_orientation": "portrait",
-                        "region": "global",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/331973/331973h1.jpg",
-                            "width": 200,
-                            "height": 300
-                        }
-                    }
-                },
-                "still": {
-                    "1": {
-                        "image_orientation": "landscape",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/331973/331973h2.jpg",
-                            "width": 300,
-                            "height": 200
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "film_id": 331212,
-            "imdb_id": 9198364,
-            "imdb_title_id": "tt9198364",
-            "film_name": "Three Thousand Years of Longing",
-            "other_titles": null,
-            "release_dates": [
-                {
-                    "release_date": "2022-08-26",
-                    "notes": "Nationwide"
-                }
-            ],
-            "age_rating": [
-                {
-                    "rating": "R ",
-                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
-                    "age_advisory": "for some sexual content, graphic nudity and brief violence."
-                }
-            ],
-            "film_trailer": "https://trailer.movieglu.com/331212_high.mp4",
-            "synopsis_long": "Dr Alithea Binnie (Tilda Swinton) is an academic - content with life and a creature of reason. While in Istanbul attending a conference, she happens to encounter a Djinn (Idris Elba) who offers her three wishes in exchange for his freedom. This presents two problems. First, she doubts that he is real and second, because she is a scholar of story and mythology, she knows all the cautionary tales of wishes gone wrong. The Djinn pleads his case by telling her fantastical stories of his past. Eventually she is beguiled and makes a wish that surprises them both.",
-            "images": {
-                "poster": {
-                    "1": {
-                        "image_orientation": "portrait",
-                        "region": "global",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/331212/331212h1.jpg",
-                            "width": 200,
-                            "height": 300
-                        }
-                    }
-                },
-                "still": {
-                    "1": {
-                        "image_orientation": "landscape",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/331212/331212h2.jpg",
-                            "width": 300,
-                            "height": 200
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "film_id": 332625,
-            "imdb_id": 10028196,
-            "imdb_title_id": "tt10028196",
-            "film_name": "Laal Singh Chaddha (Hindi)",
-            "other_titles": null,
-            "release_dates": [
-                {
-                    "release_date": "2022-08-11",
+                    "release_date": "2024-02-29",
                     "notes": "Limited"
                 }
             ],
             "age_rating": [
                 {
-                    "rating": "PG-13 ",
-                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
-                    "age_advisory": "for some violent content, thematic elements and suggestive material."
-                }
-            ],
-            "film_trailer": "https://trailer.movieglu.com/332625_high.mp4",
-            "synopsis_long": "LAAL SINGH CHADDHA, a simple man whose extraordinary journey will fill you with love, warmth & happiness.",
-            "images": {
-                "poster": {
-                    "1": {
-                        "image_orientation": "portrait",
-                        "region": "global",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/332625/332625h1.jpg",
-                            "width": 200,
-                            "height": 300
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "film_id": 312980,
-            "imdb_id": 10540510,
-            "imdb_title_id": "tt10540510",
-            "film_name": "Inu-Oh",
-            "other_titles": null,
-            "release_dates": [
-                {
-                    "release_date": "2022-08-12",
-                    "notes": "Limited"
-                }
-            ],
-            "age_rating": [
-                {
-                    "rating": "PG-13 ",
-                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
                     "age_advisory": ""
                 }
             ],
-            "film_trailer": "https://trailer.movieglu.com/312980_high.mp4",
-            "synopsis_long": "From visionary director Masaaki Yuasa, hailed by IndieWire as \"one of the most creatively unbridled minds in all of modern animation,\" comes a revisionist rock opera about a 14th-century superstar whose dance moves take Japan by storm.Born to an esteemed family, Inu-oh is afflicted with an ancient curse that has left him on the margins of society. When he meets the blind musician Tomona, a young biwa priest haunted by his past, Inu-oh discovers a captivating ability to dance. The pair quickly become business partners and inseparable friends as crowds flock to their electric, larger-than-life concerts. But when those in power threaten to break up the band, Inu-oh and Tomona must dance and sing to uncover the truth behind their creative gifts.Featuring character design by Taiyo Matsumoto and awe-inspiring vocals by Avu-chan and Mirai Moriyama, INU-OH is a glam-rock ode to the power of music and a forceful statement on artistic freedom from one of animation's singular talents.",
+            "film_trailer": "https://trailer.movieglu.com/352885_high.mp4",
+            "synopsis_long": "Clashing kingdoms. Rival rulers. The enemies of Jesus close in for the kill while His followers struggle to keep up, leaving Him to carry the burden alone. Season 4 promises to deliver where last season's incredible walking on water finale left off\n\nThe Chosen: Season 4 Episodes 7-8 As the seeds of His betrayal are planted, Jesus calls on his followers to rise up when opposition to their message turns violent.",
             "images": {
                 "poster": {
                     "1": {
                         "image_orientation": "portrait",
                         "region": "global",
                         "medium": {
-                            "film_image": "https://image.movieglu.com/312980/312980h1.jpg",
-                            "width": 200,
-                            "height": 300
-                        }
-                    }
-                },
-                "still": {
-                    "1": {
-                        "image_orientation": "landscape",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/312980/312980h2.jpg",
-                            "width": 300,
-                            "height": 200
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "film_id": 327104,
-            "imdb_id": 15255876,
-            "imdb_title_id": "tt15255876",
-            "film_name": "Emily the Criminal",
-            "other_titles": null,
-            "release_dates": [
-                {
-                    "release_date": "2022-08-12",
-                    "notes": "Nationwide"
-                }
-            ],
-            "age_rating": [
-                {
-                    "rating": "R ",
-                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
-                    "age_advisory": "for language, some violence and brief drug use."
-                }
-            ],
-            "film_trailer": "https://trailer.movieglu.com/327104_high.mp4",
-            "synopsis_long": "Emily (Aubrey Plaza) is saddled with student debt and locked out of the job market due to a minor criminal record. Desperate for income, she takes a shady gig as a \"dummy shopper,\" buying goods with stolen credit cards supplied by a handsome and charismatic middleman named Youcef (Theo Rossi). Faced with a series of dead-end job interviews, Emily soon finds herself seduced by the quick cash and illicit thrills of black-market capitalism, and increasingly interested in her mentor Youcef. Together, they hatch a plan to bring their business to the next level in Los Angeles.",
-            "images": {
-                "poster": {
-                    "1": {
-                        "image_orientation": "portrait",
-                        "region": "global",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/327104/327104h1.jpg",
-                            "width": 200,
-                            "height": 300
-                        }
-                    }
-                },
-                "still": {
-                    "1": {
-                        "image_orientation": "landscape",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/327104/327104h2.jpg",
-                            "width": 300,
-                            "height": 200
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "film_id": 327177,
-            "imdb_id": 15208276,
-            "imdb_title_id": "tt15208276",
-            "film_name": "Summering",
-            "other_titles": null,
-            "release_dates": [
-                {
-                    "release_date": "2022-08-12",
-                    "notes": "Limited"
-                }
-            ],
-            "age_rating": [
-                {
-                    "rating": "PG-13 ",
-                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
-                    "age_advisory": "for some thematic material."
-                }
-            ],
-            "film_trailer": "https://trailer.movieglu.com/327177_high.mp4",
-            "synopsis_long": "During their last days of summer and childhood -- the weekend before middle school begins -- four girls struggle with the harsh truths of growing up and embark on a mysterious adventure.",
-            "images": {
-                "poster": {
-                    "1": {
-                        "image_orientation": "portrait",
-                        "region": "global",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/327177/327177h1.jpg",
-                            "width": 200,
-                            "height": 300
-                        }
-                    }
-                },
-                "still": {
-                    "1": {
-                        "image_orientation": "landscape",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/327177/327177h2.jpg",
-                            "width": 300,
-                            "height": 200
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "film_id": 329307,
-            "imdb_id": 13070038,
-            "imdb_title_id": "tt13070038",
-            "film_name": "After Ever Happy",
-            "other_titles": null,
-            "release_dates": [
-                {
-                    "release_date": "2022-09-07",
-                    "notes": "Limited"
-                },
-                {
-                    "release_date": "2022-09-08",
-                    "notes": "Limited"
-                }
-            ],
-            "age_rating": [
-                {
-                    "rating": "R ",
-                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
-                    "age_advisory": "for language throughout, some sexual content and brief drug material."
-                }
-            ],
-            "film_trailer": "https://trailer.movieglu.com/329307_high.mp4",
-            "synopsis_long": "The fourth and final chapter in the AFTER franchise finds Tessa and Hardin at a crossroads: Does Tessa continue trying to save him and their relationship, or is it time to save herself? While Hardin remains in London after his mother's wedding and sinks deeper into darkness, Tessa returns to Seattle an endures a tragedy. If they want their love to survive, they'll need to work on themselves first. But will their paths lead them back to each other? This exclusive two-night event will also include a special behind-the-scenes look into the filming of After Every Happy with new cast & crew interviews, never before seen footage etc.",
-            "images": {
-                "poster": {
-                    "1": {
-                        "image_orientation": "portrait",
-                        "region": "global",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/329307/329307h1.jpg",
+                            "film_image": "https://image.movieglu.com/352885/352885h1.jpg",
                             "width": 200,
                             "height": 300
                         }
@@ -425,143 +216,14 @@
             }
         },
         {
-            "film_id": 327025,
-            "imdb_id": 11128440,
-            "imdb_title_id": "tt11128440",
-            "film_name": "Clerks III",
+            "film_id": 356016,
+            "imdb_id": 22334258,
+            "imdb_title_id": "tt22334258",
+            "film_name": "Someone Like You",
             "other_titles": null,
             "release_dates": [
                 {
-                    "release_date": "2022-09-13",
-                    "notes": "Limited"
-                },
-                {
-                    "release_date": "2022-09-15",
-                    "notes": "Limited"
-                }
-            ],
-            "age_rating": [
-                {
-                    "rating": "R ",
-                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
-                    "age_advisory": "for pervasive language, crude sexual material, and drug content."
-                }
-            ],
-            "film_trailer": "https://trailer.movieglu.com/327025_high.mp4",
-            "synopsis_long": "Following a massive heart attack, Randal enlists his friends and fellow clerks Dante, Elias, Jay, and Silent Bob to make a movie immortalizing his life at the convenience store that started it all.Plus, go behind the scenes with Kevin Smith and the cast of Clerks III. Hear what it took to bring back the cast of this iconic franchise and their time together since the first film 28 years ago.",
-            "images": {
-                "poster": {
-                    "1": {
-                        "image_orientation": "portrait",
-                        "region": "global",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/327025/327025h1.jpg",
-                            "width": 200,
-                            "height": 300
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "film_id": 323273,
-            "imdb_id": 11261830,
-            "imdb_title_id": "tt11261830",
-            "film_name": "The Retaliators",
-            "other_titles": null,
-            "release_dates": [
-                {
-                    "release_date": "2022-09-14",
-                    "notes": ""
-                }
-            ],
-            "age_rating": [
-                {
-                    "rating": "0 ",
-                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/uc.png",
-                    "age_advisory": ""
-                }
-            ],
-            "film_trailer": "https://trailer.movieglu.com/323273_high.mp4",
-            "synopsis_long": "In THE RETALIATORS, an upstanding pastor uncovers a dark and twisted underworld as he searches for answers surrounding his daughter's brutal murder. A high-octane original soundtrack and cameos from some of the biggest names in rock music set the tone as this horror-thriller reveals a game of revenge played using a new set of rules.",
-            "images": {
-                "poster": {
-                    "1": {
-                        "image_orientation": "portrait",
-                        "region": "global",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/323273/323273h1.jpg",
-                            "width": 200,
-                            "height": 300
-                        }
-                    }
-                },
-                "still": {
-                    "1": {
-                        "image_orientation": "landscape",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/323273/323273h2.jpg",
-                            "width": 300,
-                            "height": 200
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "film_id": 330888,
-            "imdb_id": 11851548,
-            "imdb_title_id": "tt11851548",
-            "film_name": "Orphan: First Kill",
-            "other_titles": null,
-            "release_dates": [
-                {
-                    "release_date": "2022-08-19",
-                    "notes": "Platform"
-                }
-            ],
-            "age_rating": [
-                {
-                    "rating": "R ",
-                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
-                    "age_advisory": "for bloody violence, language and brief sexual content"
-                }
-            ],
-            "film_trailer": "https://trailer.movieglu.com/330888_high.mp4",
-            "synopsis_long": "After escaping from an Estonian psychiatric facility, Esther travels to America by impersonating the missing daughter of a wealthy family. Yet, an unexpected twist arises that pits her against a mother who will protect her family at any cost.",
-            "images": {
-                "poster": {
-                    "1": {
-                        "image_orientation": "portrait",
-                        "region": "global",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/330888/330888h1.jpg",
-                            "width": 200,
-                            "height": 300
-                        }
-                    }
-                },
-                "still": {
-                    "1": {
-                        "image_orientation": "landscape",
-                        "medium": {
-                            "film_image": "https://image.movieglu.com/330888/330888h2.jpg",
-                            "width": 300,
-                            "height": 200
-                        }
-                    }
-                }
-            }
-        },
-        {
-            "film_id": 332573,
-            "imdb_id": 12834962,
-            "imdb_title_id": "tt12834962",
-            "film_name": "Raksha Bandhan",
-            "other_titles": null,
-            "release_dates": [
-                {
-                    "release_date": "2022-08-11",
+                    "release_date": "2024-04-02",
                     "notes": "Limited"
                 }
             ],
@@ -572,15 +234,150 @@
                     "age_advisory": ""
                 }
             ],
-            "film_trailer": "https://trailer.movieglu.com/332573_high.mp4",
-            "synopsis_long": "Lala Kedarnath, the eldest and only brother of 4 sisters, runs a chaat shop that was started by his father. Lala promises his frail mother on her deathbed that he will get married only after he fulfills the responsibility of marrying his sisters into suitable homes first. What follows is Lala's relentless efforts of getting his sisters married while upholding his family values. At the same time, Lala also faces hiccups on the personal front, his romantic life with his childhood love Sapna. However, Lala's commitment to his sisters stands as a huge roadblock for his and Sapna's love story to take off. Understanding the importance of Lala's vow, Sapna decides to wait till his goal is achieved.",
+            "film_trailer": "https://trailer.movieglu.com/356016_high.mp4",
+            "synopsis_long": "Based on the popular novel by #1 New York Times Bestselling author Karen Kingsbury, Someone Like You is an achingly beautiful redemptive love story for our times. Architect Dawson Gage fell in love with London Quinn in high school, even though she told him not to. Ten years later, the two are still best friends when tragedy strikes. Now, the grieving Dawson is compelled to do one final act of love for London. He launches an impossible search for her secret twin sister, twins separated during their parents' IVF procedure.  States away, Andi Allen has no idea she was adopted as an embryo. The news rocks her world and sends her into a spiral that culminates in her leaving home to meet her biological parents. But what will happen when Andi walks through the door of the parents she never knew? All while she's missing the parents who lied to her?             With one set of parents grieving the loss of a daughter, and the other set grieving the truth they never told, only Dawson can show Andi everything she missed about her twin sister. But neither of them imagined the attraction they'd feel for each other. Now can Dawson help Andi make her way back home, even though he has fallen desperately in love with her?",
             "images": {
                 "poster": {
                     "1": {
                         "image_orientation": "portrait",
                         "region": "global",
                         "medium": {
-                            "film_image": "https://image.movieglu.com/332573/332573h1.jpg",
+                            "film_image": "https://image.movieglu.com/356016/356016h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/356016/356016h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 349411,
+            "imdb_id": 13097932,
+            "imdb_title_id": "tt13097932",
+            "film_name": "One Life",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2024-03-15",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": "for thematic material, smoking and some language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/349411_high.mp4",
+            "synopsis_long": "Based on the book If It's Not Impossible...: The Life of Sir Nicholas Winton by Barbara Winton, ONE LIFE tells the incredible, emotional true story of Nicholas 'Nicky' Winton (Flynn), a young London broker who visits Prague in December 1938. In a race against time, Winton convinces Trevor Chadwick (Sharp) and Doreen Warriner (Garai) of the British Committee for Refugees in Czechoslovakia to rescue hundreds of predominantly Jewish children before Nazi occupation closes the borders. Fifty years later, Nicky (Hopkins) is haunted by the fate of the children he wasn't able to bring to safety in England. It's not until the BBC show \"That's Life!\" re-introduces him to some of those he helped rescue that he finally begins to come to terms with the guilt and grief he carried - all the while skyrocketing from anonymity to a national hero.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/349411/349411h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/349411/349411h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 317768,
+            "imdb_id": 10720352,
+            "imdb_title_id": "tt10720352",
+            "film_name": "Arthur the King",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2024-03-15",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG-13 ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+                    "age_advisory": "for some strong language."
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/317768_high.mp4",
+            "synopsis_long": "Over the course of ten days and 435 miles, an unbreakable bond is forged between pro adventure racer Michael Light (Mark Wahlberg) and a scrappy street dog companion dubbed Arthur. Based on an incredible true story, ARTHUR THE KING follows Light, desperate for one last chance to win, as he convinces a sponsor to back him and a team of athletes (Simu Liu, Nathalie Emmanuel, and Ali Suliman) for the Adventure Racing World Championship in the Dominican Republic. As the team is pushed to their outer limits of endurance in the race, Arthur redefines what victory, loyalty and friendship truly mean.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/317768/317768h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                },
+                "still": {
+                    "1": {
+                        "image_orientation": "landscape",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/317768/317768h2.jpg",
+                            "width": 300,
+                            "height": 200
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 355187,
+            "imdb_id": 12802134,
+            "imdb_title_id": "tt12802134",
+            "film_name": "Luca (2021) - Pixar Special Theatrical Engagement",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2024-03-22",
+                    "notes": "Nationwide"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/355187_high.mp4",
+            "synopsis_long": "Set in a beautiful seaside town on the Italian Riviera, Disney and Pixar's original feature film \"Luca\" is a coming-of-age story about one young boy experiencing an unforgettable summer filled with gelato, pasta and endless scooter rides. Luca shares these adventures with his newfound best friend, Alberto, but all the fun is threatened by a deeply-held secret: they are sea monsters from another world just below the water's surface.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/355187/355187h1.jpg",
                             "width": 200,
                             "height": 300
                         }
@@ -589,15 +386,66 @@
             }
         },
         {
-            "film_id": 327347,
-            "imdb_id": 12655436,
-            "imdb_title_id": "tt12655436",
-            "film_name": "Honk For Jesus. Save Your Soul.",
+            "film_id": 354188,
+            "imdb_id": null,
+            "imdb_title_id": null,
+            "film_name": "Gone with the Wind 85th Anniversary",
             "other_titles": null,
             "release_dates": [
                 {
-                    "release_date": "2022-09-02",
-                    "notes": "Nationwide"
+                    "release_date": "2024-04-07",
+                    "notes": "Limited"
+                },
+                {
+                    "release_date": "2024-04-08",
+                    "notes": "Limited"
+                },
+                {
+                    "release_date": "2024-04-10",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "G ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/g.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/354188_high.mp4",
+            "synopsis_long": "Winner of eight Academy Awards® (plus two special achievement Oscars) Celebrate the 85th Anniversary of one of the most celebrated motion pictures of all time, Gone With the Wind! Clark Gable, Vivien Leigh, Olivia de Havilland and Hattie McDaniel star in this classic epic of the American South. On the eve of the American Civil War, rich, beautiful and self-centered Scarlett O'Hara (Leigh, in her Oscar winning role) has everything she could wantexcept Ashley Wilkes (Leslie Howard). But as the war devastates the South, Scarlett discovers the strength within herself to protect her family and rebuild her life. Through everything, she longs for Ashley, seemingly unaware that she is already married to the man she really loves (Gable) - and who truly loves her - until she finally drives him away. Only then does Scarlett realize what she has lost...and decides to win him back.This special 85th anniversary event includes exclusive insight from Leonard Maltin.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/354188/354188h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 356953,
+            "imdb_id": 23330554,
+            "imdb_title_id": "tt23330554",
+            "film_name": "Winnie-the-Pooh: Blood and Honey 2",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2024-03-26",
+                    "notes": "Limited"
+                },
+                {
+                    "release_date": "2024-03-27",
+                    "notes": "Limited"
+                },
+                {
+                    "release_date": "2024-03-28",
+                    "notes": "Limited"
                 }
             ],
             "age_rating": [
@@ -607,15 +455,171 @@
                     "age_advisory": ""
                 }
             ],
-            "film_trailer": "https://trailer.movieglu.com/327347_high.mp4",
-            "synopsis_long": "Honk for Jesus. Save Your Soul. is a satirical comedy starring Regina Hall as Trinitie Childs - the proud first lady of a Southern Baptist megachurch, who together with her husband Pastor Lee-Curtis Childs (Sterling K. Brown), once served a congregation in the tens of thousands. But after a scandal forces their church to temporarily close, Trinitie and Lee-Curtis must reopen their church and rebuild their congregation to make the biggest comeback that commodified religion has ever seen.",
+            "film_trailer": null,
+            "synopsis_long": "",
             "images": {
                 "poster": {
                     "1": {
                         "image_orientation": "portrait",
                         "region": "global",
                         "medium": {
-                            "film_image": "https://image.movieglu.com/327347/327347h1.jpg",
+                            "film_image": "https://image.movieglu.com/356953/356953h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 354187,
+            "imdb_id": null,
+            "imdb_title_id": null,
+            "film_name": "Labyrinth (2024 Re-Release)",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2024-03-06",
+                    "notes": "Limited"
+                },
+                {
+                    "release_date": "2024-03-10",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": "https://trailer.movieglu.com/354187_high.mp4",
+            "synopsis_long": "Frustrated with babysitting on yet another weekend night, Sarah (Jennifer Connelly), a teenager with an active imagination, summons the Goblins to take her baby stepbrother away. When little Toby actually disappears, Sarah must follow him into a fantastical world to rescue him from the Goblin King (David Bowie). Guarding his castle is the labyrinth itself, a twisted maze of deception, populated with outrageous characters and unknown dangers. To get through it in time to save Toby, Sarah befriends the Goblins, in hopes that their loyalty isn't just another illusion in a place where nothing is as it seems. This special Fathom's Big Screen Classics event includes exclusive insight from Leonard Maltin.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/354187/354187h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 354230,
+            "imdb_id": null,
+            "imdb_title_id": null,
+            "film_name": "Steel Magnolias 35th Anniversary",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2024-05-05",
+                    "notes": "Limited"
+                },
+                {
+                    "release_date": "2024-05-08",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Six icons of the silver screen - Sally Field, Dolly Parton, Shirley MacLaine, Daryl Hannah, Olympia Dukakis and Julia Roberts - come together in this hilarious and heartwarming story of life, love and loss in a small Louisiana parish. At the center of the group is Shelby, newly married and joyfully pregnant, even though her diabetes could make childbirth life-threatening. Terrified at the possibility of losing her only daughter, M'Lynn looks to her four closest friends for strength and laughter as she battles her deepest fear of death to join Shelby in celebrating the miracle of new life.   A classic story of family, strength in women, and big southern hair, the big screen is the perfect way to experience the Magnolia's Louisiana charm and celebrate 35 years of Steel Magnolias. This special anniversary event includes exclusive insight from Leonard Maltin.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/354230/354230h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 354267,
+            "imdb_id": null,
+            "imdb_title_id": null,
+            "film_name": "The NeverEnding Story 40th Anniversary",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2024-07-21",
+                    "notes": "Limited"
+                },
+                {
+                    "release_date": "2024-07-22",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "PG ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "The NeverEnding Story tells the story of Bastian (Barret Oliver) who, on his way to school one day, ducks into a bookstore to avoid bullies. Sneaking away with a book called \"The NeverEnding Story,\" Bastian begins reading it in the school attic. The novel is about Fantasia, a fantasy land threatened by \"The Nothing,\" a darkness that destroys everything it touches. The kingdom needs the help of a human child to survive. When Bastian reads a description of himself in the book, he begins to wonder if Fantasia is real and needs him to survive.This special 40th anniversary event includes exclusive insight from Leonard Maltin.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/354267/354267h1.jpg",
+                            "width": 200,
+                            "height": 300
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "film_id": 354231,
+            "imdb_id": null,
+            "imdb_title_id": null,
+            "film_name": "South Park: Bigger, Longer, & Uncut 25th Anniversary",
+            "other_titles": null,
+            "release_dates": [
+                {
+                    "release_date": "2024-06-23",
+                    "notes": "Limited"
+                },
+                {
+                    "release_date": "2024-06-26",
+                    "notes": "Limited"
+                }
+            ],
+            "age_rating": [
+                {
+                    "rating": "R ",
+                    "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+                    "age_advisory": ""
+                }
+            ],
+            "film_trailer": null,
+            "synopsis_long": "Stan, Kyle, Kenny, and Cartman sneak into an R-rated movie to see their favorite Canadian superstars, Terrence and Phillip. When their parents find out, they declare war on Canada. Now the boys have to stand up to their parents, stop World War III and get Satan back to Hell before he destroys the world. It's all part of a young boy's life in this quiet little redneck mountain town.",
+            "images": {
+                "poster": {
+                    "1": {
+                        "image_orientation": "portrait",
+                        "region": "global",
+                        "medium": {
+                            "film_image": "https://image.movieglu.com/354231/354231h1.jpg",
                             "width": 200,
                             "height": 300
                         }
@@ -632,7 +636,7 @@
         "request_method": "GET",
         "version": "LEAR_11v200",
         "territory": "US",
-        "device_datetime_sent": "2022-08-07T14:18:58.055Z",
-        "device_datetime_used": "2022-08-07 14:18:58"
+        "device_datetime_sent": "2024-02-23T06:53:25.390Z",
+        "device_datetime_used": "2024-02-23 06:53:25"
     }
 }

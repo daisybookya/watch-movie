@@ -19,11 +19,11 @@ const routes = [
     component: <Coming />,
     name: 'Coming Soon Movie',
   },
-  {
-    path: '/filmTimes',
-    component: <FilmTimes />,
-    name: 'Film Show Times',
-  },
+  // {
+  //   path: '/filmTimes',
+  //   component: <FilmTimes />,
+  //   name: 'Film Show Times',
+  // },
   {
     path: '/about',
     component: <About />,
