@@ -1,0 +1,102 @@
+@primary-color: #1444aa; // 全局主色
+@link-color: #a9d134; // 链接色
+@font-size-base: 15px; // 主字号
+@heading-color: #f8df8b; // 标题色
+@text-color: rgb(255, 255, 255); // 主文本色
+@text-color-secondary: rgba(255, 255, 255, 0.45); // 次文本色
+@main: #1444aa;
+@second: #6f9412;
+@bk: #333;
+@border-space: 3%;
+.coming-soon-layout {
+  padding: 5%;
+}
+.coming {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15vh;
+  .poster-img {
+    cursor: pointer;
+  }
+  .poster {
+    display: none;
+  }
+  .movie-list {
+  }
+  .ant-list-lg .ant-list-item {
+    padding: 15px 0;
+    padding-top: 30px;
+  }
+}
+.slide-boxs {
+  display: none;
+}
+.movie-btns {
+  display: flex;
+  padding-top: 15px;
+  padding-bottom: 10px;
+  button {
+    margin: 0 10px;
+  }
+}
+.ant-pagination-item-active {
+  border-color: @heading-color;
+}
+.ant-pagination-item-active a {
+  background-color: @heading-color;
+  color: @main;
+}
+.ant-carousel .slick-dots li button {
+  background: #fff;
+}
+@media (min-width: 768px) {
+  .coming-soon-layout {
+    padding: 0;
+  }
+  .coming {
+    flex-direction: row;
+    justify-content: right;
+    margin-top: 0;
+    .poster {
+      display: inline-block;
+      width: 35vw;
+      height: 100vh;
+      position: fixed;
+      top: 0;
+      left: 0;
+      background: #333;
+    }
+    .movie-list {
+      width: 65vw;
+      padding: 10% 5%;
+    }
+  }
+  .slide-boxs > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .slide-movie {
+    margin-bottom: 2.5vh;
+  }
+}
+@media (min-width: 996px) {
+  .coming {
+    .poster {
+      width: 30vw;
+    }
+    .movie-list {
+      width: 70vw;
+    }
+  }
+}
+@media (min-width: 1200px) {
+  .coming {
+    .poster {
+      width: 25vw;
+    }
+    .movie-list {
+      width: 75vw;
+    }
+  }
+}

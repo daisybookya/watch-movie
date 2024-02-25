@@ -54,8 +54,8 @@ const About = () => {
         <h3>ver:1.1 - 2024.02.23</h3>
         <ul>
           <li>網站配色修改</li>
-          <li>頁面設計修改：home/about/coming soon/movie details</li>
-          <li>預覽電影預告片播放介面修改，新增迴放/靜音按鈕功能</li>
+          <li>頁面設計修改：home/about/now showing/coming soon/movie details</li>
+          <li>預覽電影預告片播放介面修改，新增回放/靜音按鈕功能</li>
         </ul>
         <h3>ver:1.0 - 2022.11.15</h3>
       </div>

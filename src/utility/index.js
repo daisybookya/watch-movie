@@ -1,3 +1,10 @@
+import routes from '../router';
+
+export const getPageTitle = name => {
+  const path = name;
+  const title = routes.filter (i => i.path === path);
+  return title[0].name;
+};
 export function handleData (data, row = 5, num = 5) {
   let dataList = [];
   let originData = data.concat (data);

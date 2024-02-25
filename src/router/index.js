@@ -1,8 +1,7 @@
 import Home from '../pages/Home';
 import Showing from '../pages/Showing';
-import Coming from '../pages/Coming';
+import Coming from '../pages/ComingSoon';
 import About from '../pages/About';
-import FilmTimes from '../pages/FilmTimes';
 const routes = [
   {
     path: '/',
@@ -19,11 +18,6 @@ const routes = [
     component: <Coming />,
     name: 'Coming Soon Movie',
   },
-  // {
-  //   path: '/filmTimes',
-  //   component: <FilmTimes />,
-  //   name: 'Film Show Times',
-  // },
   {
     path: '/about',
     component: <About />,
