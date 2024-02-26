@@ -1,0 +1,97 @@
+@primary-color: #1444aa; // 全局主色
+@link-color: #a9d134; // 链接色
+@font-size-base: 15px; // 主字号
+@heading-color: #f8df8b; // 标题色
+@text-color: rgb(255, 255, 255); // 主文本色
+@text-color-secondary: rgba(255, 255, 255, 0.45); // 次文本色
+@main: #1444aa;
+@second: #6f9412;
+@bk: #333;
+@border-space: 3%;
+.card-flex {
+  display: flex;
+  .ant-image-img {
+    width: auto;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+  }
+  .ant-image {
+    width: 100%;
+  }
+  .ant-card-meta-detail {
+    margin-bottom: 10px;
+  }
+}
+.filter-box {
+  margin: 30px 0;
+  display: flex;
+  justify-content: center;
+}
+.ant-card-bordered {
+  border: none;
+  background: #333;
+}
+.ant-card-body {
+  padding: 10px;
+  p {
+    margin-bottom: 0;
+  }
+}
+.modal-flex {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  .poster {
+    margin-bottom: 15px;
+    margin-right: 0px;
+  }
+}
+.ant-list-grid .ant-col > .ant-list-item {
+  margin-bottom: 45px;
+}
+.ant-select-arrow {
+  color: #fff;
+}
+.ant-select-dropdown {
+  background-color: #333;
+}
+.ant-select-item-option-selected:not(.ant-select-item-option-disabled) {
+  background: @heading-color;
+  color: @primary-color;
+}
+.ant-select-item-option-active:not(.ant-select-item-option-disabled) {
+  background: @heading-color;
+  color: @primary-color;
+}
+.ant-modal-content {
+  background: rgba(37, 56, 97, 0.95);
+  .ant-btn-primary {
+    display: none;
+  }
+}
+.ant-modal-body {
+  .title {
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+}
+.ant-modal-footer {
+  display: none;
+}
+.ant-tag {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: @primary-color;
+}
+@media (min-width: 768px) {
+  .modal-flex {
+    flex-direction: row;
+    .poster {
+      margin-right: 20px;
+    }
+  }
+}
+@media (min-width: 996px) {
+}
+@media (min-width: 1200px) {
+}
