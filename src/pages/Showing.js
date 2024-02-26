@@ -3,6 +3,7 @@ import {useEffect, useState} from 'react';
 import {Trailer} from '../components/Trailer';
 import {Card, List, Button} from 'antd';
 import {Layout} from '../components/Layout';
+import {getAgeRate} from '../utility';
 import {IndexMovie} from '../components/IndexMovie';
 import {useSelector, useDispatch} from 'react-redux';
 import {addDetail, addList, close, open} from '../slice/movieSlice';
@@ -36,7 +37,6 @@ const Showing = () => {
     },
     [dispatch, list.length, location.hash]
   );
-
   const closeDetail = () => {
     dispatch (close ());
   };
@@ -65,6 +65,7 @@ const Showing = () => {
             : ''
         }
       >
+        {getAgeRate (detail)}
         {detail.film_trailer
           ? <Button className="btn-trailer" onClick={() => getTrailer ()}>
               Film Trailer

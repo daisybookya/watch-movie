@@ -16,7 +16,27 @@ export function handleData (data, row = 5, num = 5) {
   }
   return dataList;
 }
-
+export const ageRateColor = {
+  NC: '#d7721d',
+  PG: '#4e8c34',
+  G: '#389fcd',
+  R: '#f50',
+};
+export function getAgeRate (item) {
+  if (item.age_rating) {
+    const str = item.age_rating[0]['rating'];
+    const valList = Object.keys (ageRateColor).join (',');
+    const key = str.slice (0, 2).trim ();
+    if (valList.includes (key)) {
+      return (
+        <div className="rate-tag" style={{background: `${ageRateColor[key]}`}}>
+          {str}
+        </div>
+      );
+    }
+  }
+  return false;
+}
 export function isValidDate (date) {
   const status = Date.parse (date);
   if (isNaN (status)) {

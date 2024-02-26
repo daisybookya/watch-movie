@@ -5,7 +5,7 @@ import {useLocation} from 'react-router-dom';
 import {Carousel, Image, Skeleton, List, Typography, Button} from 'antd';
 import {IndexMovie} from '../components/IndexMovie';
 import {Trailer} from '../components/Trailer';
-import {handleData, getPageTitle} from '../utility';
+import {handleData, getPageTitle, getAgeRate} from '../utility';
 import {useSelector, useDispatch} from 'react-redux';
 import {addDetail, close, open} from '../slice/movieSlice';
 import {getComingFilms} from '../api/fetch';
@@ -171,7 +171,7 @@ const Coming = () => {
                       : `${item.synopsis_long.slice (0, 150)}...`}
                   </div>
                   <div className="movie-btns">
-                    {hasSynopsis (item)}{hasTrailer (item)}
+                    {getAgeRate (item)}{hasSynopsis (item)}{hasTrailer (item)}
                   </div>
                 </List.Item>
               </Skeleton>
