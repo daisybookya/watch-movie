@@ -1,47 +1,44 @@
 import '../css/tvStreaming.less';
 import {useEffect, useState} from 'react';
-import {Card, List, Select, Image, Modal, Tag} from 'antd';
+import {Card, List, Select, Image, Modal, Tag, Skeleton} from 'antd';
 import {Layout} from '../components/Layout';
+import {useSelector, useDispatch} from 'react-redux';
+import {
+  addList,
+  close,
+  open,
+  openInforLoading,
+  closeInforLoading,
+  addTvList,
+  addTvDetail,
+} from '../slice/movieSlice';
 import {getReleaseData, getDetails} from '../api/fetchTv';
 const TVComing = () => {
   const {Meta} = Card;
-  const [switchBtn, setSwitch] = useState ({
-    loading: true,
-    open: false,
-  });
-  const [details, setDetail] = useState ({
-    title: 'No data',
-    plot_overview: 'No data.',
-    genre_names: [],
-    network_names: [],
-  });
-  const [list, setList] = useState ([]);
-  const [tvList, setTvList] = useState ([]);
+  const theTv = useSelector (state => state.movie);
+  const {isOpen, tvDetail, list, tvList, inforLoading} = theTv;
+  const dispatch = useDispatch ();
+  const [loading, setLoading] = useState (true);
   const [selected, setSelected] = useState ('All TV');
   const [page, setPage] = useState (1);
-
   useEffect (() => {
     try {
       getReleaseData ().then (resp => {
         const filteredData = filterList (resp.releases);
         const filterTvOpts = handleSource (resp.releases);
-        setTvList (filterTvOpts);
-        setList (filteredData);
+        dispatch (addTvList (filterTvOpts));
+        dispatch (addList (filteredData));
       });
     } catch (err) {
       console.error (err);
     } finally {
-      handleSwitch ('loading', false);
+      setLoading (false);
     }
   }, []);
   const handleTvOpts = data => {
     if (!data.length) return [];
     return data.map (item => ({value: item, label: item}));
   };
-  function handleSwitch (item, state) {
-    const newState = Object.assign ({}, switchBtn, {[item]: state});
-    setSwitch (newState);
-  }
   function handleSource (data) {
     const _tvList = new Set ([]);
     data.forEach (item => {
@@ -66,18 +63,25 @@ const TVComing = () => {
     setPage (1);
   }
   async function openInfor (data) {
-    handleSwitch ('open', true);
+    dispatch (open ());
+    dispatch (openInforLoading ());
     try {
       const infor = await getDetails (data.id);
-      setDetail (infor);
+      dispatch (addTvDetail (infor));
     } catch (e) {
       console.log (e);
-      setDetail ({
-        title: 'Oops!',
-        plot_overview: 'information is error.',
-        genre_names: [],
-        network_names: [],
-      });
+      dispatch (
+        addTvDetail ({
+          title: 'Oops!',
+          plot_overview: 'information is error.',
+          genre_names: [],
+          network_names: [],
+        })
+      );
+    } finally {
+      setTimeout (function () {
+        dispatch (closeInforLoading ());
+      }, 300);
     }
   }
   return (
@@ -95,7 +99,7 @@ const TVComing = () => {
       </div>
 
       <List
-        loading={switchBtn.loading}
+        loading={loading}
         grid={{
           gutter: 36,
           xs: 2,
@@ -151,43 +155,47 @@ const TVComing = () => {
       <Modal
         title="TV Series Details"
         cancelText={'close'}
-        onCancel={() => handleSwitch ('open', false)}
-        visible={switchBtn.open}
+        onCancel={() => dispatch (close ())}
+        visible={isOpen}
       >
-        <div className="modal-flex">
-          {details.poster
-            ? <div className="poster">
-                <img alt={details.title} src={details.poster} />
-              </div>
-            : ''}
+        <Skeleton active loading={inforLoading}>
+          <div className="modal-flex">
+            {tvDetail.poster
+              ? <div className="poster">
+                  <img alt={tvDetail.title} src={tvDetail.poster} />
+                </div>
+              : ''}
 
-          <div className="content">
-            <p className="sp-font title">
-              {details.title ? details.title : ''}
-            </p>
-            <p>
-              Genre-
-              <br />
-              {details.genre_names
-                ? details.genre_names.map (item => <Tag key={item}>{item}</Tag>)
-                : 'No Genre'}
-            </p>
-            <p>
-              Overview-
-              <br />
-              {details.plot_overview ? details.plot_overview : ''}
-            </p>
-            <p>
-              Streaming Platforms-
-              <br />
-              {details.network_names
-                ? details.network_names.map (tv => (
-                    <Tag key={tv} color="#f8df8b" bordered={false}>{tv}</Tag>
-                  ))
-                : 'No Platforms'}
-            </p>
+            <div className="content">
+              <p className="sp-font title">
+                {tvDetail.title ? tvDetail.title : ''}
+              </p>
+              <p>
+                Genre-
+                <br />
+                {tvDetail.genre_names
+                  ? tvDetail.genre_names.map (item => (
+                      <Tag key={item}>{item}</Tag>
+                    ))
+                  : 'No Genre'}
+              </p>
+              <p>
+                Overview-
+                <br />
+                {tvDetail.plot_overview ? tvDetail.plot_overview : ''}
+              </p>
+              <p>
+                Streaming Platforms-
+                <br />
+                {tvDetail.network_names
+                  ? tvDetail.network_names.map (tv => (
+                      <Tag key={tv} color="#f8df8b" bordered="false">{tv}</Tag>
+                    ))
+                  : 'No Platforms'}
+              </p>
+            </div>
           </div>
-        </div>
+        </Skeleton>
       </Modal>
     </Layout>
   );
