@@ -1,0 +1,2257 @@
+{
+    "titles": [
+        {
+            "id": 315497,
+            "title": "Bluey",
+            "year": 2018,
+            "imdb_id": "tt7678620",
+            "tmdb_id": 82728,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3164369,
+            "title": "The Owl House",
+            "year": 2020,
+            "imdb_id": "tt8050756",
+            "tmdb_id": 92685,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3169709,
+            "title": "Percy Jackson and the Olympians",
+            "year": 2023,
+            "imdb_id": "tt12324366",
+            "tmdb_id": 103540,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3158249,
+            "title": "Loki",
+            "year": 2021,
+            "imdb_id": "tt9140554",
+            "tmdb_id": 84958,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3164117,
+            "title": "What If...?",
+            "year": 2021,
+            "imdb_id": "tt10168312",
+            "tmdb_id": 91363,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 543801,
+            "title": "Ahsoka",
+            "year": 2023,
+            "imdb_id": "tt13622776",
+            "tmdb_id": 114461,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3164402,
+            "title": "She-Hulk: Attorney at Law",
+            "year": 2022,
+            "imdb_id": "tt10857160",
+            "tmdb_id": 92783,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3159069,
+            "title": "Andor",
+            "year": 2022,
+            "imdb_id": "tt9253284",
+            "tmdb_id": 83867,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 346214,
+            "title": "Genius",
+            "year": 2017,
+            "imdb_id": "tt5673782",
+            "tmdb_id": 70128,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3166382,
+            "title": "Love, Victor",
+            "year": 2020,
+            "imdb_id": "tt10166602",
+            "tmdb_id": 97186,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3179581,
+            "title": "Star Wars: The Bad Batch",
+            "year": 2021,
+            "imdb_id": "tt12708542",
+            "tmdb_id": 105971,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3153801,
+            "title": "The Mandalorian",
+            "year": 2019,
+            "imdb_id": "tt8111088",
+            "tmdb_id": 82856,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3127764,
+            "title": "The Punisher",
+            "year": 2017,
+            "imdb_id": "tt5675620",
+            "tmdb_id": 67178,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 334615,
+            "title": "DuckTales",
+            "year": 2017,
+            "imdb_id": "tt5531466",
+            "tmdb_id": 72350,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3190585,
+            "title": "I Am Groot",
+            "year": 2022,
+            "imdb_id": "tt13623148",
+            "tmdb_id": 232125,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3185896,
+            "title": "Tales of the Jedi",
+            "year": 2022,
+            "imdb_id": "tt20723374",
+            "tmdb_id": 203085,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3127027,
+            "title": "The Orville",
+            "year": 2017,
+            "imdb_id": "tt5691552",
+            "tmdb_id": 71738,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3159357,
+            "title": "Amphibia",
+            "year": 2019,
+            "imdb_id": "tt8050740",
+            "tmdb_id": 85349,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3122323,
+            "title": "The Finder",
+            "year": 2012,
+            "imdb_id": "tt1943524",
+            "tmdb_id": 39360,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3119017,
+            "title": "The Avengers: Earth's Mightiest Heroes",
+            "year": 2010,
+            "imdb_id": "tt1626038",
+            "tmdb_id": 33623,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3111490,
+            "title": "Star vs. the Forces of Evil",
+            "year": 2015,
+            "imdb_id": "tt2758770",
+            "tmdb_id": 61923,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 327970,
+            "title": "Daredevil",
+            "year": 2015,
+            "imdb_id": "tt3322312",
+            "tmdb_id": 61889,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 388529,
+            "title": "Once Upon a Time",
+            "year": 2011,
+            "imdb_id": "tt1843230",
+            "tmdb_id": 39272,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 34792,
+            "title": "Marvel's Agents of S.H.I.E.L.D.",
+            "year": 2013,
+            "imdb_id": "tt2364582",
+            "tmdb_id": 1403,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3178445,
+            "title": "Goosebumps",
+            "year": 2023,
+            "imdb_id": "tt17720272",
+            "tmdb_id": 157004,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3163346,
+            "title": "Monsters at Work",
+            "year": 2021,
+            "imdb_id": "tt8610082",
+            "tmdb_id": 90461,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 348599,
+            "title": "Gravity Falls",
+            "year": 2012,
+            "imdb_id": "tt1865718",
+            "tmdb_id": 40075,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3182002,
+            "title": "American Born Chinese",
+            "year": 2023,
+            "imdb_id": "tt15552018",
+            "tmdb_id": 135615,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3110488,
+            "title": "Spider-Man: The Animated Series",
+            "year": 1994,
+            "imdb_id": "tt0112175",
+            "tmdb_id": 888,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 348002,
+            "title": "Good Luck Charlie",
+            "year": 2010,
+            "imdb_id": "tt1415889",
+            "tmdb_id": 21641,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 34768,
+            "title": "Agent Carter",
+            "year": 2015,
+            "imdb_id": "tt3475734",
+            "tmdb_id": 61550,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 360347,
+            "title": "Jessica Jones",
+            "year": 2015,
+            "imdb_id": "tt2357547",
+            "tmdb_id": 38472,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3111478,
+            "title": "Star Wars: The Clone Wars",
+            "year": 2008,
+            "imdb_id": "tt0458290",
+            "tmdb_id": 4194,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3111472,
+            "title": "Star Wars: Rebels",
+            "year": 2014,
+            "imdb_id": "tt2930604",
+            "tmdb_id": 60554,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 373126,
+            "title": "Luke Cage",
+            "year": 2016,
+            "imdb_id": "tt3322314",
+            "tmdb_id": 62126,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3136942,
+            "title": "Ultimate Spider-Man",
+            "year": 2012,
+            "imdb_id": "tt1722512",
+            "tmdb_id": 34391,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 392697,
+            "title": "Phineas and Ferb",
+            "year": 2007,
+            "imdb_id": "tt0852863",
+            "tmdb_id": 1877,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 543772,
+            "title": "The Santa Clauses",
+            "year": 2022,
+            "imdb_id": "tt17047510",
+            "tmdb_id": 155631,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3160063,
+            "title": "High School Musical: The Musical: The Series",
+            "year": 2019,
+            "imdb_id": "tt8510382",
+            "tmdb_id": 85801,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 347062,
+            "title": "Girl Meets World",
+            "year": 2014,
+            "imdb_id": "tt2543796",
+            "tmdb_id": 46028,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3126305,
+            "title": "The Muppet Show",
+            "year": 1976,
+            "imdb_id": "tt0074028",
+            "tmdb_id": 4459,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 347307,
+            "title": "Glee",
+            "year": 2009,
+            "imdb_id": "tt1327801",
+            "tmdb_id": 1417,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 314933,
+            "title": "Black-ish",
+            "year": 2014,
+            "imdb_id": "tt3487356",
+            "tmdb_id": 61381,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 350364,
+            "title": "Hannah Montana",
+            "year": 2006,
+            "imdb_id": "tt0493093",
+            "tmdb_id": 4610,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 363881,
+            "title": "Kim Possible",
+            "year": 2002,
+            "imdb_id": "tt0278866",
+            "tmdb_id": 2345,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 345743,
+            "title": "Gargoyles",
+            "year": 1994,
+            "imdb_id": "tt0108783",
+            "tmdb_id": 1719,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3175358,
+            "title": "Snowdrop",
+            "year": 2021,
+            "imdb_id": "tt13304700",
+            "tmdb_id": 108291,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3172978,
+            "title": "Star Wars: Clone Wars",
+            "year": 2003,
+            "imdb_id": "tt0361243",
+            "tmdb_id": 3122,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3144848,
+            "title": "Wizards of Waverly Place",
+            "year": 2007,
+            "imdb_id": "tt0799922",
+            "tmdb_id": 3498,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3129170,
+            "title": "The Simpsons",
+            "year": 1989,
+            "imdb_id": "tt0096697",
+            "tmdb_id": 456,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 35619,
+            "title": "Alias",
+            "year": 2001,
+            "imdb_id": "tt0285333",
+            "tmdb_id": 2046,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 333739,
+            "title": "Doug",
+            "year": 1991,
+            "imdb_id": "tt0101084",
+            "tmdb_id": 384,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 328097,
+            "title": "Darkwing Duck",
+            "year": 1991,
+            "imdb_id": "tt0101076",
+            "tmdb_id": 3319,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3176985,
+            "title": "Dug Days",
+            "year": 2021,
+            "imdb_id": "tt13624054",
+            "tmdb_id": 114501,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3129734,
+            "title": "The Suite Life of Zack & Cody",
+            "year": 2005,
+            "imdb_id": "tt0426371",
+            "tmdb_id": 4605,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 378874,
+            "title": "Miraculous: Tales of Ladybug & Cat Noir",
+            "year": 2015,
+            "imdb_id": "tt2580046",
+            "tmdb_id": 65334,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 31939,
+            "title": "8 Simple Rules",
+            "year": 2002,
+            "imdb_id": "tt0312081",
+            "tmdb_id": 4241,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3174686,
+            "title": "Secrets of Sulphur Springs",
+            "year": 2021,
+            "imdb_id": "tt10329642",
+            "tmdb_id": 114547,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3145756,
+            "title": "X-Men: Evolution",
+            "year": 2000,
+            "imdb_id": "tt0247827",
+            "tmdb_id": 668,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 332123,
+            "title": "Dinosaurs",
+            "year": 1991,
+            "imdb_id": "tt0101081",
+            "tmdb_id": 3763,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3126307,
+            "title": "The Muppets.",
+            "year": 2015,
+            "imdb_id": "tt4651824",
+            "tmdb_id": 62815,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3118053,
+            "title": "That's So Raven",
+            "year": 2003,
+            "imdb_id": "tt0300865",
+            "tmdb_id": 4602,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3115964,
+            "title": "TaleSpin",
+            "year": 1990,
+            "imdb_id": "tt0098924",
+            "tmdb_id": 2720,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3169159,
+            "title": "Disney Gallery: The Mandalorian",
+            "year": 2020,
+            "imdb_id": "tt12162902",
+            "tmdb_id": 101978,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3129735,
+            "title": "The Suite Life on Deck",
+            "year": 2008,
+            "imdb_id": "tt1181917",
+            "tmdb_id": 15079,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 339080,
+            "title": "Even Stevens",
+            "year": 2000,
+            "imdb_id": "tt0206511",
+            "tmdb_id": 3200,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3171999,
+            "title": "Marvel Studios: Legends",
+            "year": 2021,
+            "imdb_id": "tt13650480",
+            "tmdb_id": 114695,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3132928,
+            "title": "Timon & Pumbaa",
+            "year": 1995,
+            "imdb_id": "tt0112197",
+            "tmdb_id": 4429,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3115247,
+            "title": "Tron: Uprising",
+            "year": 2012,
+            "imdb_id": "tt1812523",
+            "tmdb_id": 34356,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 353707,
+            "title": "Home Improvement",
+            "year": 1991,
+            "imdb_id": "tt0101120",
+            "tmdb_id": 1558,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 316370,
+            "title": "Boy Meets World",
+            "year": 1993,
+            "imdb_id": "tt0105958",
+            "tmdb_id": 1777,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3185268,
+            "title": "Zootopia+",
+            "year": 2022,
+            "imdb_id": "tt13622956",
+            "tmdb_id": 114463,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3182001,
+            "title": "National Treasure: Edge of History",
+            "year": 2022,
+            "imdb_id": "tt12580982",
+            "tmdb_id": 137437,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3145753,
+            "title": "X-Men: The Animated Series",
+            "year": 1992,
+            "imdb_id": "tt0103584",
+            "tmdb_id": 4574,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 398734,
+            "title": "Recess",
+            "year": 1997,
+            "imdb_id": "tt0126170",
+            "tmdb_id": 1546,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 375785,
+            "title": "Mars",
+            "year": 2016,
+            "imdb_id": "tt4939064",
+            "tmdb_id": 68427,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 371091,
+            "title": "Liv and Maddie",
+            "year": 2013,
+            "imdb_id": "tt2794380",
+            "tmdb_id": 59375,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 334616,
+            "title": "DuckTales",
+            "year": 1987,
+            "imdb_id": "tt0092345",
+            "tmdb_id": 720,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 321944,
+            "title": "Chip 'n Dale: Rescue Rangers",
+            "year": 1989,
+            "imdb_id": "tt0096557",
+            "tmdb_id": 1615,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 398219,
+            "title": "Raven's Home",
+            "year": 2017,
+            "imdb_id": "tt6311972",
+            "tmdb_id": 72027,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 398114,
+            "title": "Rapunzel's Tangled Adventure",
+            "year": 2017,
+            "imdb_id": "tt4902964",
+            "tmdb_id": 70047,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 388540,
+            "title": "Once Upon a Time in Wonderland",
+            "year": 2013,
+            "imdb_id": "tt2802008",
+            "tmdb_id": 57754,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 349127,
+            "title": "Grown-ish",
+            "year": 2018,
+            "imdb_id": "tt7018644",
+            "tmdb_id": 71885,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 37377,
+            "title": "Ancient Aliens",
+            "year": 2009,
+            "imdb_id": "tt1643266",
+            "tmdb_id": 32608,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 58935,
+            "title": "Inhumans",
+            "year": 2017,
+            "imdb_id": "tt4154858",
+            "tmdb_id": 68716,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 371447,
+            "title": "Lizzie McGuire",
+            "year": 2001,
+            "imdb_id": "tt0273366",
+            "tmdb_id": 4575,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 310271,
+            "title": "Avengers Assemble",
+            "year": 2012,
+            "imdb_id": "tt2455546",
+            "tmdb_id": 59427,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3182059,
+            "title": "Limitless",
+            "year": 2022,
+            "imdb_id": "tt11714334",
+            "tmdb_id": 115996,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 378106,
+            "title": "Mickey Mouse",
+            "year": 2013,
+            "imdb_id": "tt2768802",
+            "tmdb_id": 46879,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 36782,
+            "title": "American Dragon: Jake Long",
+            "year": 2005,
+            "imdb_id": "tt0429305",
+            "tmdb_id": 346,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 314095,
+            "title": "Big City Greens",
+            "year": 2018,
+            "imdb_id": "tt7165904",
+            "tmdb_id": 80587,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 34414,
+            "title": "Adventures of the Gummi Bears",
+            "year": 1985,
+            "imdb_id": "tt0088528",
+            "tmdb_id": 1931,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3183284,
+            "title": "The Muppets Mayhem",
+            "year": 2023,
+            "imdb_id": "tt18545980",
+            "tmdb_id": 194573,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 378537,
+            "title": "Milo Murphy's Law",
+            "year": 2016,
+            "imdb_id": "tt5439480",
+            "tmdb_id": 67549,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 370692,
+            "title": "Lilo & Stitch: The Series",
+            "year": 2003,
+            "imdb_id": "tt0364774",
+            "tmdb_id": 2355,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 363593,
+            "title": "Kickin' It",
+            "year": 2011,
+            "imdb_id": "tt1765622",
+            "tmdb_id": 32716,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3175846,
+            "title": "Star Wars: Visions",
+            "year": 2021,
+            "imdb_id": "tt13622982",
+            "tmdb_id": 114478,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 360356,
+            "title": "Jessie",
+            "year": 2011,
+            "imdb_id": "tt1865769",
+            "tmdb_id": 38974,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3141870,
+            "title": "Wander Over Yonder",
+            "year": 2013,
+            "imdb_id": "tt2252938",
+            "tmdb_id": 45013,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3121093,
+            "title": "The Curse of Oak Island",
+            "year": 2014,
+            "imdb_id": "tt3455408",
+            "tmdb_id": 60603,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 351855,
+            "title": "Hercules",
+            "year": 1998,
+            "imdb_id": "tt0138967",
+            "tmdb_id": 2567,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3176871,
+            "title": "The Wonder Years",
+            "year": 2021,
+            "imdb_id": "tt12682076",
+            "tmdb_id": 126164,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 367520,
+            "title": "Lab Rats",
+            "year": 2012,
+            "imdb_id": "tt1991564",
+            "tmdb_id": 38867,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3144954,
+            "title": "Wolverine and the X-Men",
+            "year": 2008,
+            "imdb_id": "tt0772145",
+            "tmdb_id": 6549,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 343288,
+            "title": "Forged in Fire",
+            "year": 2015,
+            "imdb_id": "tt4680444",
+            "tmdb_id": 62884,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3178396,
+            "title": "Welcome to Earth",
+            "year": 2021,
+            "imdb_id": "tt13623992",
+            "tmdb_id": 127700,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3106116,
+            "title": "Shake It Up",
+            "year": 2010,
+            "imdb_id": "tt1661326",
+            "tmdb_id": 33213,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 349222,
+            "title": "Guardians of the Galaxy",
+            "year": 2015,
+            "imdb_id": "tt4176370",
+            "tmdb_id": 63181,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3111473,
+            "title": "Star Wars: Resistance",
+            "year": 2018,
+            "imdb_id": "tt8336340",
+            "tmdb_id": 79093,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 348141,
+            "title": "Goof Troop",
+            "year": 1992,
+            "imdb_id": "tt0103428",
+            "tmdb_id": 2235,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 333474,
+            "title": "Doogie Howser, M.D.",
+            "year": 1989,
+            "imdb_id": "tt0096569",
+            "tmdb_id": 1750,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 361897,
+            "title": "K.C. Undercover",
+            "year": 2015,
+            "imdb_id": "tt3598030",
+            "tmdb_id": 61915,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 310078,
+            "title": "Austin & Ally",
+            "year": 2011,
+            "imdb_id": "tt1830491",
+            "tmdb_id": 35279,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3176542,
+            "title": "Doogie Kamealoha, M.D.",
+            "year": 2021,
+            "imdb_id": "tt12225230",
+            "tmdb_id": 130372,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3164350,
+            "title": "The Ghost and Molly McGee",
+            "year": 2021,
+            "imdb_id": "tt10684374",
+            "tmdb_id": 92649,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 314144,
+            "title": "Big Hero 6: The Series",
+            "year": 2017,
+            "imdb_id": "tt5515212",
+            "tmdb_id": 68665,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 37462,
+            "title": "Andi Mack",
+            "year": 2017,
+            "imdb_id": "tt5195114",
+            "tmdb_id": 70540,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3131602,
+            "title": "The Young Indiana Jones Chronicles",
+            "year": 1992,
+            "imdb_id": "tt0103586",
+            "tmdb_id": 661,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3109663,
+            "title": "Sonny with a Chance",
+            "year": 2009,
+            "imdb_id": "tt1252374",
+            "tmdb_id": 33873,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 363575,
+            "title": "Kick Buttowski: Suburban Daredevil",
+            "year": 2010,
+            "imdb_id": "tt1600757",
+            "tmdb_id": 17572,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 327710,
+            "title": "Dancing with the Stars",
+            "year": 2005,
+            "imdb_id": "tt0463398",
+            "tmdb_id": 1508,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3174317,
+            "title": "The Proud Family: Louder and Prouder",
+            "year": 2022,
+            "imdb_id": "tt11871764",
+            "tmdb_id": 125438,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3127737,
+            "title": "The Proud Family",
+            "year": 2001,
+            "imdb_id": "tt0293737",
+            "tmdb_id": 543,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3124034,
+            "title": "The Incredible Dr. Pol",
+            "year": 2011,
+            "imdb_id": "tt2136396",
+            "tmdb_id": 49297,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3112243,
+            "title": "Storage Wars",
+            "year": 2010,
+            "imdb_id": "tt1785123",
+            "tmdb_id": 34971,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 392666,
+            "title": "Phil of the Future",
+            "year": 2004,
+            "imdb_id": "tt0340281",
+            "tmdb_id": 1528,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3121878,
+            "title": "The Emperor's New School",
+            "year": 2006,
+            "imdb_id": "tt0465327",
+            "tmdb_id": 4623,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3108724,
+            "title": "Smart Guy",
+            "year": 1997,
+            "imdb_id": "tt0118466",
+            "tmdb_id": 2291,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3101985,
+            "title": "Running Wild with Bear Grylls",
+            "year": 2014,
+            "imdb_id": "tt3816666",
+            "tmdb_id": 61120,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 33261,
+            "title": "A.N.T. Farm",
+            "year": 2011,
+            "imdb_id": "tt1772752",
+            "tmdb_id": 34573,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3182841,
+            "title": "Moon Girl and Devil Dinosaur",
+            "year": 2023,
+            "imdb_id": "tt8041658",
+            "tmdb_id": 92788,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3147997,
+            "title": "Zorro",
+            "year": 1957,
+            "imdb_id": "tt0050079",
+            "tmdb_id": 4681,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3125253,
+            "title": "The Little Mermaid",
+            "year": 1992,
+            "imdb_id": "tt0103477",
+            "tmdb_id": 2675,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3110490,
+            "title": "Spider-Man",
+            "year": 2017,
+            "imdb_id": "tt6135682",
+            "tmdb_id": 72705,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 327635,
+            "title": "Dance Moms",
+            "year": 2011,
+            "imdb_id": "tt1991410",
+            "tmdb_id": 40026,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3147472,
+            "title": "Zeke and Luther",
+            "year": 2009,
+            "imdb_id": "tt1189346",
+            "tmdb_id": 17519,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3109227,
+            "title": "Sofia the First",
+            "year": 2012,
+            "imdb_id": "tt2136138",
+            "tmdb_id": 46928,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3126556,
+            "title": "The New Adventures of Winnie the Pooh",
+            "year": 1988,
+            "imdb_id": "tt0165052",
+            "tmdb_id": 2005,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 333003,
+            "title": "Dog with a Blog",
+            "year": 2012,
+            "imdb_id": "tt2222135",
+            "tmdb_id": 43775,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 316485,
+            "title": "Brain Games",
+            "year": 2011,
+            "imdb_id": "tt2078690",
+            "tmdb_id": 54315,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 379587,
+            "title": "Modern Marvels",
+            "year": 1993,
+            "imdb_id": "tt0199248",
+            "tmdb_id": 6145,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3165695,
+            "title": "Behind the Attraction",
+            "year": 2021,
+            "imdb_id": "tt11069436",
+            "tmdb_id": 95738,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3170931,
+            "title": "The Wonderful World of Mickey Mouse",
+            "year": 2020,
+            "imdb_id": "tt13089270",
+            "tmdb_id": 109930,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3140510,
+            "title": "Violetta",
+            "year": 2012,
+            "imdb_id": "tt2171665",
+            "tmdb_id": 61720,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3125221,
+            "title": "The Lion Guard",
+            "year": 2015,
+            "imdb_id": "tt3793630",
+            "tmdb_id": 64752,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3112829,
+            "title": "Stuck in the Middle",
+            "year": 2016,
+            "imdb_id": "tt4488724",
+            "tmdb_id": 65291,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3109032,
+            "title": "So Weird",
+            "year": 1999,
+            "imdb_id": "tt0169247",
+            "tmdb_id": 1954,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 360930,
+            "title": "Jonas",
+            "year": 2009,
+            "imdb_id": "tt1044418",
+            "tmdb_id": 12712,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3110495,
+            "title": "Spider-Man and His Amazing Friends",
+            "year": 1981,
+            "imdb_id": "tt0083481",
+            "tmdb_id": 1269,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 392151,
+            "title": "Pepper Ann",
+            "year": 1997,
+            "imdb_id": "tt0128890",
+            "tmdb_id": 4568,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 332787,
+            "title": "Doc McStuffins",
+            "year": 2012,
+            "imdb_id": "tt1710295",
+            "tmdb_id": 46262,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 396873,
+            "title": "Quack Pack",
+            "year": 1996,
+            "imdb_id": "tt0136658",
+            "tmdb_id": 1863,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 378107,
+            "title": "Mickey Mouse Clubhouse",
+            "year": 2006,
+            "imdb_id": "tt0784896",
+            "tmdb_id": 3934,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 370248,
+            "title": "Life Below Zero",
+            "year": 2013,
+            "imdb_id": "tt2964642",
+            "tmdb_id": 60910,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 342201,
+            "title": "Fish Hooks",
+            "year": 2010,
+            "imdb_id": "tt1725902",
+            "tmdb_id": 31499,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 312428,
+            "title": "Bear in the Big Blue House",
+            "year": 1997,
+            "imdb_id": "tt0173664",
+            "tmdb_id": 207,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 390524,
+            "title": "Pair of Kings",
+            "year": 2010,
+            "imdb_id": "tt1571313",
+            "tmdb_id": 31628,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 36649,
+            "title": "America's Funniest Home Videos",
+            "year": 1989,
+            "imdb_id": "tt0098740",
+            "tmdb_id": 4448,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3182154,
+            "title": "Kiff",
+            "year": 2023,
+            "imdb_id": "tt14877120",
+            "tmdb_id": 127706,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3216527,
+            "title": "Arctic Ascent with Alex Honnold",
+            "year": 2024,
+            "imdb_id": "tt15258106",
+            "tmdb_id": 131433,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3104194,
+            "title": "Schoolhouse Rock!",
+            "year": 1973,
+            "imdb_id": "tt0069627",
+            "tmdb_id": 10077,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 371610,
+            "title": "Locked Up Abroad",
+            "year": 2007,
+            "imdb_id": "tt1020109",
+            "tmdb_id": 7439,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 337129,
+            "title": "Elena of Avalor",
+            "year": 2016,
+            "imdb_id": "tt4549142",
+            "tmdb_id": 67175,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3110074,
+            "title": "Soy Luna",
+            "year": 2016,
+            "imdb_id": "tt5189554",
+            "tmdb_id": 66203,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 396490,
+            "title": "Puppy Dog Pals",
+            "year": 2017,
+            "imdb_id": "tt6688750",
+            "tmdb_id": 72089,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3128174,
+            "title": "The Replacements",
+            "year": 2006,
+            "imdb_id": "tt0816401",
+            "tmdb_id": 4627,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3124041,
+            "title": "The Incredible Hulk",
+            "year": 1996,
+            "imdb_id": "tt0115215",
+            "tmdb_id": 6332,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3107574,
+            "title": "Silver Surfer",
+            "year": 1998,
+            "imdb_id": "tt0203268",
+            "tmdb_id": 1130,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 356470,
+            "title": "Ice Road Truckers",
+            "year": 2007,
+            "imdb_id": "tt1068912",
+            "tmdb_id": 3780,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 378271,
+            "title": "Mighty Med",
+            "year": 2013,
+            "imdb_id": "tt2573338",
+            "tmdb_id": 57961,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3110494,
+            "title": "Spider-Man Unlimited",
+            "year": 1999,
+            "imdb_id": "tt0207120",
+            "tmdb_id": 10079,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 355093,
+            "title": "Hulk and the Agents of S.M.A.S.H.",
+            "year": 2013,
+            "imdb_id": "tt2455514",
+            "tmdb_id": 40044,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3101120,
+            "title": "Rolie Polie Olie",
+            "year": 1998,
+            "imdb_id": "tt0172049",
+            "tmdb_id": 2641,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 398036,
+            "title": "Randy Cunningham: 9th Grade Ninja",
+            "year": 2012,
+            "imdb_id": "tt2341339",
+            "tmdb_id": 46698,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3156158,
+            "title": "Car S.O.S.",
+            "year": 2013,
+            "imdb_id": "tt3110590",
+            "tmdb_id": 51890,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 340763,
+            "title": "Fantastic Four: World's Greatest Heroes",
+            "year": 2006,
+            "imdb_id": "tt0830298",
+            "tmdb_id": 132,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3139221,
+            "title": "Vampirina",
+            "year": 2017,
+            "imdb_id": "tt7010622",
+            "tmdb_id": 74323,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 390277,
+            "title": "PB&J Otter",
+            "year": 1998,
+            "imdb_id": "tt0191715",
+            "tmdb_id": 4230,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 355673,
+            "title": "I Didn't Do It",
+            "year": 2014,
+            "imdb_id": "tt2996052",
+            "tmdb_id": 54327,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 314734,
+            "title": "Bizaardvark",
+            "year": 2016,
+            "imdb_id": "tt4800624",
+            "tmdb_id": 66456,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 326159,
+            "title": "Criss Angel Mindfreak",
+            "year": 2005,
+            "imdb_id": "tt0461622",
+            "tmdb_id": 12278,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3214268,
+            "title": "Flex x Cop",
+            "year": 2024,
+            "imdb_id": "tt30413181",
+            "tmdb_id": 220074,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 315925,
+            "title": "Bonkers",
+            "year": 1993,
+            "imdb_id": "tt0213334",
+            "tmdb_id": 6616,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 330409,
+            "title": "Descendants: Wicked World",
+            "year": 2015,
+            "imdb_id": "tt4951098",
+            "tmdb_id": 65016,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 381369,
+            "title": "Muppet Babies",
+            "year": 2018,
+            "imdb_id": "tt6337766",
+            "tmdb_id": 77410,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 370982,
+            "title": "Little Einsteins",
+            "year": 2005,
+            "imdb_id": "tt0756522",
+            "tmdb_id": 3090,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 358836,
+            "title": "Iron Man: Armored Adventures",
+            "year": 2008,
+            "imdb_id": "tt0837143",
+            "tmdb_id": 7330,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 358834,
+            "title": "Iron Man",
+            "year": 1994,
+            "imdb_id": "tt0115218",
+            "tmdb_id": 3097,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 350309,
+            "title": "Handy Manny",
+            "year": 2006,
+            "imdb_id": "tt0451460",
+            "tmdb_id": 10219,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 34390,
+            "title": "Adventures in Wonderland",
+            "year": 1992,
+            "imdb_id": "tt0088473",
+            "tmdb_id": 10432,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3213252,
+            "title": "Ishura",
+            "year": 2024,
+            "imdb_id": "tt26713948",
+            "tmdb_id": 220286,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3175816,
+            "title": "History's Greatest Mysteries",
+            "year": 2020,
+            "imdb_id": "tt11947238",
+            "tmdb_id": 113085,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3169503,
+            "title": "Zenimation",
+            "year": 2020,
+            "imdb_id": "tt12372034",
+            "tmdb_id": 103822,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3111471,
+            "title": "Star Wars: Forces of Destiny",
+            "year": 2017,
+            "imdb_id": "tt6779076",
+            "tmdb_id": 71412,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 388511,
+            "title": "Once",
+            "year": 2017,
+            "imdb_id": "tt6922826",
+            "tmdb_id": 72637,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3166468,
+            "title": "Lost Treasures of Egypt",
+            "year": 2019,
+            "imdb_id": "tt10115054",
+            "tmdb_id": 87994,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3162109,
+            "title": "Drain the Oceans",
+            "year": 2018,
+            "imdb_id": "tt8676618",
+            "tmdb_id": 37158,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 369170,
+            "title": "Lego Star Wars: The Freemaker Adventures",
+            "year": 2016,
+            "imdb_id": "tt5459566",
+            "tmdb_id": 66837,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3159123,
+            "title": "Sydney to the Max",
+            "year": 2019,
+            "imdb_id": "tt8959856",
+            "tmdb_id": 84915,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 359752,
+            "title": "Captain Jake and the Never Land Pirates",
+            "year": 2011,
+            "imdb_id": "tt1833403",
+            "tmdb_id": 34891,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3166523,
+            "title": "The Adventures of Young Indiana Jones",
+            "year": 2002,
+            "imdb_id": "tt9733630",
+            "tmdb_id": 235444,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 340761,
+            "title": "Fantastic Four: The Animated Series",
+            "year": 1994,
+            "imdb_id": "tt0187635",
+            "tmdb_id": 2901,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 320657,
+            "title": "Celebrity Ghost Stories",
+            "year": 2008,
+            "imdb_id": "tt1320080",
+            "tmdb_id": 32803,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 392831,
+            "title": "Pickle and Peanut",
+            "year": 2015,
+            "imdb_id": "tt3824018",
+            "tmdb_id": 62853,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 313381,
+            "title": "Best Friends Whenever",
+            "year": 2015,
+            "imdb_id": "tt4507442",
+            "tmdb_id": 62783,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3168451,
+            "title": "Mira, Royal Detective",
+            "year": 2020,
+            "imdb_id": "tt9357248",
+            "tmdb_id": 100975,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3143981,
+            "title": "Wicked Tuna",
+            "year": 2012,
+            "imdb_id": "tt2191567",
+            "tmdb_id": 62598,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3129787,
+            "title": "The Super Hero Squad Show",
+            "year": 2009,
+            "imdb_id": "tt1388589",
+            "tmdb_id": 21781,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3109018,
+            "title": "So Random!",
+            "year": 2011,
+            "imdb_id": "tt1934818",
+            "tmdb_id": 39320,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3104327,
+            "title": "Science of Stupid",
+            "year": 2014,
+            "imdb_id": "tt3824414",
+            "tmdb_id": 64905,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 357005,
+            "title": "Imagination Movers",
+            "year": 2007,
+            "imdb_id": "tt1101237",
+            "tmdb_id": 30916,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3186257,
+            "title": "Hamster & Gretel",
+            "year": 2022,
+            "imdb_id": "tt13330286",
+            "tmdb_id": 156606,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3185053,
+            "title": "Disney Gallery: Star Wars: The Book of Boba Fett",
+            "year": 2022,
+            "imdb_id": "tt19881256",
+            "tmdb_id": 198109,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3125929,
+            "title": "The Mickey Mouse Club",
+            "year": 1955,
+            "imdb_id": "tt0047757",
+            "tmdb_id": 2208,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 367522,
+            "title": "Lab Rats: Elite Force",
+            "year": 2016,
+            "imdb_id": "tt5118450",
+            "tmdb_id": 65766,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3185442,
+            "title": "Short Circuit",
+            "year": 2018,
+            "imdb_id": "tt12579042",
+            "tmdb_id": 98566,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3175425,
+            "title": "Spidey and His Amazing Friends",
+            "year": 2021,
+            "imdb_id": "tt10862280",
+            "tmdb_id": 127635,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3170652,
+            "title": "T.O.T.S.",
+            "year": 2019,
+            "imdb_id": "tt8266218",
+            "tmdb_id": 91433,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3155496,
+            "title": "Dr. Oakley, Yukon Vet",
+            "year": 2014,
+            "imdb_id": "tt3593456",
+            "tmdb_id": 65927,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3180392,
+            "title": "The '80s: Top Ten",
+            "year": 2022,
+            "imdb_id": "tt14673234",
+            "tmdb_id": 138931,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3212011,
+            "title": "Aruna's Magic",
+            "year": 2023,
+            "imdb_id": "tt16225592",
+            "tmdb_id": 196308,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3110487,
+            "title": "Spider-Man",
+            "year": 1981,
+            "imdb_id": "tt0081938",
+            "tmdb_id": 3973,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 390318,
+            "title": "PJ Masks",
+            "year": 2015,
+            "imdb_id": "tt4148744",
+            "tmdb_id": 65417,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3195246,
+            "title": "Rennervations",
+            "year": 2023,
+            "imdb_id": "tt18069838",
+            "tmdb_id": 157212,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3113868,
+            "title": "Super Robot Monkey Team Hyperforce Go!",
+            "year": 2004,
+            "imdb_id": "tt0423746",
+            "tmdb_id": 3428,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 378266,
+            "title": "Mighty Ducks: The Animated Series",
+            "year": 1996,
+            "imdb_id": "tt0115269",
+            "tmdb_id": 1334,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 376812,
+            "title": "Mech-X4",
+            "year": 2016,
+            "imdb_id": "tt5568740",
+            "tmdb_id": 68654,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3187987,
+            "title": "Firebuds",
+            "year": 2022,
+            "imdb_id": "tt15788548",
+            "tmdb_id": 138987,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3516,
+            "title": "101 Dalmatians: The Series",
+            "year": 1997,
+            "imdb_id": "tt0144700",
+            "tmdb_id": 2198,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3163847,
+            "title": "Gordon Ramsay: Uncharted",
+            "year": 2019,
+            "imdb_id": "tt9165706",
+            "tmdb_id": 91405,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3181763,
+            "title": "Rise Up, Sing Out",
+            "year": 2022,
+            "imdb_id": "tt17544246",
+            "tmdb_id": 156609,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3163796,
+            "title": "Marvel Future Avengers",
+            "year": 2017,
+            "imdb_id": "tt6591446",
+            "tmdb_id": 91278,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3164543,
+            "title": "One Day at Disney",
+            "year": 2019,
+            "imdb_id": "tt10854760",
+            "tmdb_id": 93268,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3163562,
+            "title": "Bia",
+            "year": 2019,
+            "imdb_id": "tt9168904",
+            "tmdb_id": 90823,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3121977,
+            "title": "Evermoor",
+            "year": 2014,
+            "imdb_id": "tt3602560",
+            "tmdb_id": 62496,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3184641,
+            "title": "Daddies on Request",
+            "year": 2022,
+            "imdb_id": "tt15373506",
+            "tmdb_id": 114138,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3184733,
+            "title": "It Was Always Me",
+            "year": 2022,
+            "imdb_id": "tt14584108",
+            "tmdb_id": 122053,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3198591,
+            "title": "Hailey's on It!",
+            "year": 2023,
+            "imdb_id": "tt16152776",
+            "tmdb_id": 138992,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3185894,
+            "title": "Young Jedi Adventures",
+            "year": 2023,
+            "imdb_id": "tt20674124",
+            "tmdb_id": 202998,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3166867,
+            "title": "Legend of the Three Caballeros",
+            "year": 2018,
+            "imdb_id": "tt8611524",
+            "tmdb_id": 80402,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3178275,
+            "title": "Intertwined",
+            "year": 2021,
+            "imdb_id": "tt13891870",
+            "tmdb_id": 115304,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 316797,
+            "title": "Breakthrough",
+            "year": 2015,
+            "imdb_id": "tt4622776",
+            "tmdb_id": 64220,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3166195,
+            "title": "Europe from Above",
+            "year": 2019,
+            "imdb_id": "tt11003514",
+            "tmdb_id": 95755,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3103737,
+            "title": "Savage Kingdom",
+            "year": 2016,
+            "imdb_id": "tt6498784",
+            "tmdb_id": 74911,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3193569,
+            "title": "Pupstruction",
+            "year": 2023,
+            "imdb_id": "tt19868830",
+            "tmdb_id": 156616,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3188070,
+            "title": "Ewoks",
+            "year": 1985,
+            "imdb_id": "tt0088515",
+            "tmdb_id": 3478,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 358827,
+            "title": "Iron Fist",
+            "year": 2017,
+            "imdb_id": "tt3322310",
+            "tmdb_id": 1231499,
+            "tmdb_type": "movie",
+            "type": "tv_series"
+        },
+        {
+            "id": 3181602,
+            "title": "The Villains of Valley View",
+            "year": 2022,
+            "imdb_id": "tt16389768",
+            "tmdb_id": 153715,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3208219,
+            "title": "Dragons of Wonderhatch",
+            "year": 2023,
+            "imdb_id": "tt23874192",
+            "tmdb_id": 236520,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3195117,
+            "title": "Journey to the Center of the Earth",
+            "year": 2023,
+            "imdb_id": "tt15090858",
+            "tmdb_id": 125462,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        }
+    ],
+    "page": 1,
+    "total_pages": 2,
+    "total_results": 343
+}

@@ -25,7 +25,9 @@ export function Layout (props) {
         </Title>
       </div>
       {props.children}
-      <div className="footer">ChengCheng Design ©2024 Created by Cheng</div>
+      <div className="footer">
+        ChengCheng Design ©2024 Created by Cheng / ver 1.2
+      </div>
     </div>
   );
 }

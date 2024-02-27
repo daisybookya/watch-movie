@@ -47,3 +47,28 @@ export const getDetailsData = () => {
       .catch (err => reject (err));
   });
 };
+export const getSourceList = id => {
+  return new Promise ((resolve, reject) => {
+    fetchUrl
+      .get (`v1/list-titles/?apiKey=${apiKey}&types=tv_series&source_ids=${id}`)
+      .then (resp => {
+        resolve (resp.data);
+      })
+      .catch (err => reject (err));
+  });
+};
+export const getSourceListData = id => {
+  const list = {
+    203: 'netflix-data.json',
+    372: 'disney-data.json',
+    371: 'appletv-data.json',
+  };
+  return new Promise ((resolve, reject) => {
+    tempUrl2
+      .get (`${list[id]}`)
+      .then (resp => {
+        resolve (resp.data);
+      })
+      .catch (err => reject (err));
+  });
+};

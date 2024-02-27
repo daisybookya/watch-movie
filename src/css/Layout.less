@@ -28,6 +28,9 @@
     border-radius: 15px;
     background: rgba(0, 0, 0, 0.3);
   }
+  .ant-card-body p {
+    margin: 10px;
+  }
   .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
     color: @heading-color;
   }
@@ -37,6 +40,10 @@
   .ant-tabs-top > .ant-tabs-nav .ant-tabs-ink-bar {
     height: 5px;
   }
+}
+.ant-btn:not([disabled]):focus {
+  border-color: @heading-color;
+  color: @heading-color;
 }
 @media (max-width: 768px) {
   .layout {

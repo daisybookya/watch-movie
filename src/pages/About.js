@@ -16,6 +16,10 @@ const About = () => {
       title: 'Coming Soon Movie',
       intro: '介紹美國(United States)即將上映的電影。點擊海報即可展開電影預告。電影清單列出上方跑馬燈所有電影資料，包括預計上映日期、電影摘要、預告等',
     },
+    {
+      title: 'TV Series Coming',
+      intro: '介紹美國(United States)所有串流平台即將上映的影集。點擊海報即可展開影集全名、內容摘要、影集類型、串流平台',
+    },
   ];
   const tabList = [
     {
@@ -35,14 +39,20 @@ const About = () => {
           + react-redux + axios + react-player + antd design ( UI框架 ) + less
         </p>
         <p>
-          API 使用:
+          ＊MOVIE API 使用:
           <a
             href="https://developer.movieglu.com/"
             rel="noreferrer"
             target="_blank"
           >
-            MovieGlu{' '}
+            MovieGlu
           </a>(提供美、英、法、西班牙、德、荷、澳洲、加拿大、印度等國家上映的電影資訊)
+        </p>
+        <p>
+          ＊TV Stream API 使用:
+          <a href="https://api.watchmode.com/" rel="noreferrer" target="_blank">
+            Watchmode
+          </a>(提供全世界電影與串流平台資訊)
         </p>
       </div>
     );
@@ -50,14 +60,17 @@ const About = () => {
   const updateContent = () => {
     return (
       <div>
-
+        <h3>ver:1.2 - 2024.02.26</h3>
+        <ul>
+          <li>新增美國所有串流平台即將上映的電影與影集頁面</li>
+          <li>新增台灣主要串流平台(Netflix/Disney/AppleTV+)正在上檔的影集頁面</li>
+        </ul>
         <h3>ver:1.1 - 2024.02.23</h3>
         <ul>
           <li>網站配色修改</li>
           <li>頁面設計修改：home/about/now showing/coming soon/movie details</li>
           <li>預覽電影預告片播放介面修改，新增回放/靜音按鈕功能</li>
           <li>新增電影分級資訊</li>
-          <li>新增美國串流電視即將上映的影集頁面</li>
         </ul>
         <h3>ver:1.0 - 2022.11.15</h3>
       </div>

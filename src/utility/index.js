@@ -16,6 +16,29 @@ export function handleData (data, row = 5, num = 5) {
   }
   return dataList;
 }
+export const noDetails = {
+  title: 'Oops!',
+  plot_overview: 'information is error.',
+  genre_names: [],
+  network_names: [],
+};
+export const openTrailer = url => {
+  window.open (`${url}`);
+};
+export const sourceTv = [
+  {
+    name: 'Netflix',
+    source_id: 203,
+  },
+  {
+    name: 'Disney+',
+    source_id: 372,
+  },
+  {
+    name: 'AppleTV+',
+    source_id: 371,
+  },
+];
 export const ageRateColor = {
   NC: '#d7721d',
   PG: '#4e8c34',

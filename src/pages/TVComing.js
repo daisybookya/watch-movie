@@ -1,10 +1,12 @@
 import '../css/tvStreaming.less';
 import {useEffect, useState} from 'react';
-import {Card, List, Select, Image, Modal, Tag, Skeleton} from 'antd';
+import {openTrailer} from '../utility';
+import {Card, List, Select, Image, Modal, Tag, Skeleton, Button} from 'antd';
 import {Layout} from '../components/Layout';
+import {noDetails} from '../utility';
 import {useSelector, useDispatch} from 'react-redux';
 import {
-  addList,
+  addtvComingList,
   close,
   open,
   openInforLoading,
@@ -16,7 +18,7 @@ import {getReleaseData, getDetails} from '../api/fetchTv';
 const TVComing = () => {
   const {Meta} = Card;
   const theTv = useSelector (state => state.movie);
-  const {isOpen, tvDetail, list, tvList, inforLoading} = theTv;
+  const {isOpen, tvDetail, tvComingList, tvList, inforLoading} = theTv;
   const dispatch = useDispatch ();
   const [loading, setLoading] = useState (true);
   const [selected, setSelected] = useState ('All TV');
@@ -27,7 +29,7 @@ const TVComing = () => {
         const filteredData = filterList (resp.releases);
         const filterTvOpts = handleSource (resp.releases);
         dispatch (addTvList (filterTvOpts));
-        dispatch (addList (filteredData));
+        dispatch (addtvComingList (filteredData));
       });
     } catch (err) {
       console.error (err);
@@ -70,14 +72,7 @@ const TVComing = () => {
       dispatch (addTvDetail (infor));
     } catch (e) {
       console.log (e);
-      dispatch (
-        addTvDetail ({
-          title: 'Oops!',
-          plot_overview: 'information is error.',
-          genre_names: [],
-          network_names: [],
-        })
-      );
+      dispatch (addTvDetail (noDetails));
     } finally {
       setTimeout (function () {
         dispatch (closeInforLoading ());
@@ -121,7 +116,7 @@ const TVComing = () => {
           showSizeChanger: false,
           pageSize: 20,
         }}
-        dataSource={filterTheTV (list)}
+        dataSource={filterTheTV (tvComingList)}
         renderItem={item => (
           <List.Item>
             <Card
@@ -192,6 +187,13 @@ const TVComing = () => {
                       <Tag key={tv} color="#f8df8b" bordered="false">{tv}</Tag>
                     ))
                   : 'No Platforms'}
+              </p>
+              <p>
+                {tvDetail.trailer
+                  ? <Button onClick={() => openTrailer (tvDetail.trailer)}>
+                      Film Trailer
+                    </Button>
+                  : ''}
               </p>
             </div>
           </div>

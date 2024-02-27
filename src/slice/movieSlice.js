@@ -24,6 +24,7 @@ export const movieSlice = createSlice ({
       network_names: [],
     },
     list: [],
+    tvComingList: [],
     tvList: [],
     menuOpen: false,
   },
@@ -49,6 +50,9 @@ export const movieSlice = createSlice ({
     addList: (state, action) => {
       state.list = action.payload;
     },
+    addtvComingList: (state, action) => {
+      state.tvComingList = action.payload;
+    },
     addTvList: (state, action) => {
       state.tvList = action.payload;
     },
@@ -72,6 +76,7 @@ export const {
   addList,
   addTvList,
   addDetail,
+  addtvComingList,
   addTvDetail,
 } = movieSlice.actions;
 

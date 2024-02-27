@@ -1,0 +1,1249 @@
+{
+    "titles": [
+        {
+            "id": 3182185,
+            "title": "The New Look",
+            "year": 2024,
+            "imdb_id": "tt18177528",
+            "tmdb_id": 157368,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 4158363,
+            "title": "Silo",
+            "year": 2023,
+            "imdb_id": "tt14688458",
+            "tmdb_id": 125988,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3184758,
+            "title": "Bad Sisters",
+            "year": 2022,
+            "imdb_id": "tt15469618",
+            "tmdb_id": 199318,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3185624,
+            "title": "Monarch: Legacy of Monsters",
+            "year": 2023,
+            "imdb_id": "tt17220216",
+            "tmdb_id": 202411,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3184187,
+            "title": "The Lincoln Lawyer",
+            "year": 2022,
+            "imdb_id": "tt13833978",
+            "tmdb_id": 116799,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3170473,
+            "title": "The Afterparty",
+            "year": 2022,
+            "imdb_id": "tt12614214",
+            "tmdb_id": 106454,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3190703,
+            "title": "Hijack",
+            "year": 2023,
+            "imdb_id": "tt19854762",
+            "tmdb_id": 198102,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3165888,
+            "title": "Foundation",
+            "year": 2021,
+            "imdb_id": "tt0804484",
+            "tmdb_id": 93740,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3165490,
+            "title": "Slow Horses",
+            "year": 2022,
+            "imdb_id": "tt5875444",
+            "tmdb_id": 95480,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3163577,
+            "title": "Dickinson",
+            "year": 2019,
+            "imdb_id": "tt8518136",
+            "tmdb_id": 89901,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3165380,
+            "title": "Prehistoric Planet",
+            "year": 2022,
+            "imdb_id": "tt10324164",
+            "tmdb_id": 95171,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3163161,
+            "title": "The Morning Show",
+            "year": 2019,
+            "imdb_id": "tt7203552",
+            "tmdb_id": 90282,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 4143625,
+            "title": "For All Mankind",
+            "year": 2019,
+            "imdb_id": "tt7772588",
+            "tmdb_id": 87917,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3181845,
+            "title": "Shining Girls",
+            "year": 2022,
+            "imdb_id": "tt2953250",
+            "tmdb_id": 106388,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3166520,
+            "title": "Ted Lasso",
+            "year": 2020,
+            "imdb_id": "tt10986410",
+            "tmdb_id": 97546,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3175274,
+            "title": "Invasion",
+            "year": 2021,
+            "imdb_id": "tt9737326",
+            "tmdb_id": 127235,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3171198,
+            "title": "Pachinko",
+            "year": 2022,
+            "imdb_id": "tt8888462",
+            "tmdb_id": 110382,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3155173,
+            "title": "Project Blue Book",
+            "year": 2019,
+            "imdb_id": "tt6632666",
+            "tmdb_id": 79649,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3105068,
+            "title": "See",
+            "year": 2019,
+            "imdb_id": "tt7949218",
+            "tmdb_id": 80752,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3165452,
+            "title": "Shantaram",
+            "year": 2022,
+            "imdb_id": "tt0429087",
+            "tmdb_id": 95341,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3175490,
+            "title": "Schmigadoon!",
+            "year": 2021,
+            "imdb_id": "tt11808942",
+            "tmdb_id": 98892,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3165283,
+            "title": "Mythic Quest",
+            "year": 2020,
+            "imdb_id": "tt8879940",
+            "tmdb_id": 94951,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 1680178,
+            "title": "Shrinking",
+            "year": 2023,
+            "imdb_id": "tt15677150",
+            "tmdb_id": 136311,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3166864,
+            "title": "Trying",
+            "year": 2020,
+            "imdb_id": "tt10982034",
+            "tmdb_id": 98177,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 1592806,
+            "title": "Severance",
+            "year": 2022,
+            "imdb_id": "tt11280740",
+            "tmdb_id": 95396,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3172404,
+            "title": "Calls",
+            "year": 2021,
+            "imdb_id": "tt9327706",
+            "tmdb_id": 119934,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3162175,
+            "title": "Servant",
+            "year": 2019,
+            "imdb_id": "tt8068860",
+            "tmdb_id": 88055,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3166717,
+            "title": "Home Before Dark",
+            "year": 2020,
+            "imdb_id": "tt6053512",
+            "tmdb_id": 98161,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3104476,
+            "title": "Scream Queens",
+            "year": 2015,
+            "imdb_id": "tt4145384",
+            "tmdb_id": 62046,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3178062,
+            "title": "Acapulco",
+            "year": 2021,
+            "imdb_id": "tt13567344",
+            "tmdb_id": 133727,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3171681,
+            "title": "The Mosquito Coast",
+            "year": 2021,
+            "imdb_id": "tt11041132",
+            "tmdb_id": 93716,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3186865,
+            "title": "Criminal Record",
+            "year": 2024,
+            "imdb_id": "tt21088136",
+            "tmdb_id": 204490,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3173841,
+            "title": "Physical",
+            "year": 2021,
+            "imdb_id": "tt11828492",
+            "tmdb_id": 119181,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3169474,
+            "title": "Tehran",
+            "year": 2020,
+            "imdb_id": "tt10577736",
+            "tmdb_id": 103913,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3168995,
+            "title": "The Shrink Next Door",
+            "year": 2021,
+            "imdb_id": "tt11947248",
+            "tmdb_id": 102540,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3163903,
+            "title": "Departure",
+            "year": 2019,
+            "imdb_id": "tt9252156",
+            "tmdb_id": 91552,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3107843,
+            "title": "Single Parents",
+            "year": 2018,
+            "imdb_id": "tt7845644",
+            "tmdb_id": 81127,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 1620332,
+            "title": "Platonic",
+            "year": 2023,
+            "imdb_id": "tt13366604",
+            "tmdb_id": 112211,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3184404,
+            "title": "Loot",
+            "year": 2022,
+            "imdb_id": "tt14271498",
+            "tmdb_id": 197449,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3156273,
+            "title": "Truth Be Told",
+            "year": 2019,
+            "imdb_id": "tt7821582",
+            "tmdb_id": 80054,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 338086,
+            "title": "Entourage",
+            "year": 2004,
+            "imdb_id": "tt0387199",
+            "tmdb_id": 1940,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3123409,
+            "title": "The Guild",
+            "year": 2007,
+            "imdb_id": "tt1138475",
+            "tmdb_id": 15768,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3121909,
+            "title": "The Enemy Within",
+            "year": 2019,
+            "imdb_id": "tt8390342",
+            "tmdb_id": 81946,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3136397,
+            "title": "Tyrant",
+            "year": 2014,
+            "imdb_id": "tt2568204",
+            "tmdb_id": 60972,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3183194,
+            "title": "The Big Door Prize",
+            "year": 2023,
+            "imdb_id": "tt14761860",
+            "tmdb_id": 194704,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3193868,
+            "title": "Drops of God",
+            "year": 2023,
+            "imdb_id": "tt15282746",
+            "tmdb_id": 218961,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3183257,
+            "title": "Hello Tomorrow!",
+            "year": 2023,
+            "imdb_id": "tt14596212",
+            "tmdb_id": 125000,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3174063,
+            "title": "Mr. Corman",
+            "year": 2021,
+            "imdb_id": "tt10971064",
+            "tmdb_id": 124897,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3115247,
+            "title": "Tron: Uprising",
+            "year": 2012,
+            "imdb_id": "tt1812523",
+            "tmdb_id": 34356,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 375785,
+            "title": "Mars",
+            "year": 2016,
+            "imdb_id": "tt4939064",
+            "tmdb_id": 68427,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 347786,
+            "title": "Gold Rush",
+            "year": 2010,
+            "imdb_id": "tt1800864",
+            "tmdb_id": 34634,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3179542,
+            "title": "Crime",
+            "year": 2021,
+            "imdb_id": "tt12759778",
+            "tmdb_id": 106349,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3166723,
+            "title": "Amazing Stories",
+            "year": 2020,
+            "imdb_id": "tt5165368",
+            "tmdb_id": 98178,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3184219,
+            "title": "Liaison",
+            "year": 2023,
+            "imdb_id": "tt14792896",
+            "tmdb_id": 128066,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3181856,
+            "title": "The Last Days of Ptolemy Grey",
+            "year": 2022,
+            "imdb_id": "tt13820498",
+            "tmdb_id": 155493,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3157187,
+            "title": "Little America",
+            "year": 2020,
+            "imdb_id": "tt8000674",
+            "tmdb_id": 80336,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3164986,
+            "title": "Swagger",
+            "year": 2021,
+            "imdb_id": "tt8005626",
+            "tmdb_id": 94245,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3209569,
+            "title": "The Buccaneers",
+            "year": 2023,
+            "imdb_id": "tt21108774",
+            "tmdb_id": 213338,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3185070,
+            "title": "The Last Thing He Told Me",
+            "year": 2023,
+            "imdb_id": "tt13745850",
+            "tmdb_id": 201289,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 327612,
+            "title": "Dance Academy",
+            "year": 2010,
+            "imdb_id": "tt1551948",
+            "tmdb_id": 32515,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 345631,
+            "title": "Gang Related",
+            "year": 2014,
+            "imdb_id": "tt2719784",
+            "tmdb_id": 51046,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3183249,
+            "title": "Echo 3",
+            "year": 2022,
+            "imdb_id": "tt12762512",
+            "tmdb_id": 106116,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3179336,
+            "title": "Extrapolations",
+            "year": 2023,
+            "imdb_id": "tt13821126",
+            "tmdb_id": 138169,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3171022,
+            "title": "Tiny World",
+            "year": 2020,
+            "imdb_id": "tt13007904",
+            "tmdb_id": 108303,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3189205,
+            "title": "The Changeling",
+            "year": 2023,
+            "imdb_id": "tt8559532",
+            "tmdb_id": 131992,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3166701,
+            "title": "Central Park",
+            "year": 2020,
+            "imdb_id": "tt8129006",
+            "tmdb_id": 98198,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 397066,
+            "title": "Queer as Folk",
+            "year": 1999,
+            "imdb_id": "tt0185102",
+            "tmdb_id": 2388,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3183251,
+            "title": "High Desert",
+            "year": 2023,
+            "imdb_id": "tt13142324",
+            "tmdb_id": 116793,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3181758,
+            "title": "Dear Edward",
+            "year": 2023,
+            "imdb_id": "tt17543896",
+            "tmdb_id": 156820,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3171097,
+            "title": "Long Way Up",
+            "year": 2020,
+            "imdb_id": "tt12824922",
+            "tmdb_id": 106871,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3169421,
+            "title": "Little Voice",
+            "year": 2020,
+            "imdb_id": "tt8521376",
+            "tmdb_id": 103783,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 343654,
+            "title": "Fraggle Rock",
+            "year": 1983,
+            "imdb_id": "tt0085017",
+            "tmdb_id": 2957,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 337839,
+            "title": "Endgame",
+            "year": 2011,
+            "imdb_id": "tt1797629",
+            "tmdb_id": 38189,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3180223,
+            "title": "Suspicion",
+            "year": 2022,
+            "imdb_id": "tt12026710",
+            "tmdb_id": 100414,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3184224,
+            "title": "Constellation",
+            "year": 2024,
+            "imdb_id": "tt19395018",
+            "tmdb_id": 197125,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 386370,
+            "title": "NOVA",
+            "year": 1974,
+            "imdb_id": "tt0206501",
+            "tmdb_id": 3562,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 370831,
+            "title": "Lip Service",
+            "year": 2010,
+            "imdb_id": "tt1533010",
+            "tmdb_id": 31420,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3177394,
+            "title": "The Problem with Jon Stewart",
+            "year": 2021,
+            "imdb_id": "tt15084142",
+            "tmdb_id": 123149,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 344408,
+            "title": "Frontline",
+            "year": 1983,
+            "imdb_id": "tt0133302",
+            "tmdb_id": 4384,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3180801,
+            "title": "City on Fire",
+            "year": 2023,
+            "imdb_id": "tt14961770",
+            "tmdb_id": 155534,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 341030,
+            "title": "Fast N' Loud",
+            "year": 2012,
+            "imdb_id": "tt2346169",
+            "tmdb_id": 46874,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3179021,
+            "title": "Dr. Brain",
+            "year": 2021,
+            "imdb_id": "tt15758760",
+            "tmdb_id": 119955,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3174309,
+            "title": "1971: The Year That Music Changed Everything",
+            "year": 2021,
+            "imdb_id": "tt14544732",
+            "tmdb_id": 124339,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3170972,
+            "title": "Earth at Night in Color",
+            "year": 2020,
+            "imdb_id": "tt13008036",
+            "tmdb_id": 110818,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 396518,
+            "title": "Pure",
+            "year": 2017,
+            "imdb_id": "tt6257298",
+            "tmdb_id": 69329,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3182194,
+            "title": "They Call Me Magic",
+            "year": 2022,
+            "imdb_id": "tt17736322",
+            "tmdb_id": 157002,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3192265,
+            "title": "The Reluctant Traveler",
+            "year": 2023,
+            "imdb_id": "tt15822846",
+            "tmdb_id": 137735,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3183240,
+            "title": "Surface",
+            "year": 2022,
+            "imdb_id": "tt13694702",
+            "tmdb_id": 127641,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3171407,
+            "title": "The Snoopy Show",
+            "year": 2021,
+            "imdb_id": "tt13206602",
+            "tmdb_id": 110948,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3166876,
+            "title": "Home",
+            "year": 2020,
+            "imdb_id": "tt8068900",
+            "tmdb_id": 98730,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3164729,
+            "title": "Snoopy in Space",
+            "year": 2019,
+            "imdb_id": "tt10659366",
+            "tmdb_id": 91249,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3207299,
+            "title": "Still Up",
+            "year": 2023,
+            "imdb_id": "tt23033802",
+            "tmdb_id": 213337,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3124794,
+            "title": "The L.A. Complex",
+            "year": 2012,
+            "imdb_id": "tt1794147",
+            "tmdb_id": 43197,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 35416,
+            "title": "Alaska: The Last Frontier",
+            "year": 2011,
+            "imdb_id": "tt1877010",
+            "tmdb_id": 63313,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3116378,
+            "title": "Tanked",
+            "year": 2011,
+            "imdb_id": "tt1849622",
+            "tmdb_id": 61329,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3171571,
+            "title": "Stillwater",
+            "year": 2020,
+            "imdb_id": "tt13135714",
+            "tmdb_id": 111834,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3172800,
+            "title": "The Director's Chair",
+            "year": 2014,
+            "imdb_id": "tt3595002",
+            "tmdb_id": 121981,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3145563,
+            "title": "Wow! Wow! Wubbzy!",
+            "year": 2006,
+            "imdb_id": "tt0762067",
+            "tmdb_id": 1346,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3186511,
+            "title": "Strange Planet",
+            "year": 2023,
+            "imdb_id": "tt14914464",
+            "tmdb_id": 204358,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3681,
+            "title": "16 and Pregnant",
+            "year": 2009,
+            "imdb_id": "tt1454730",
+            "tmdb_id": 31673,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3206532,
+            "title": "Curses!",
+            "year": 2023,
+            "imdb_id": "tt29180190",
+            "tmdb_id": 234800,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3181734,
+            "title": "Now and Then",
+            "year": 2022,
+            "imdb_id": "tt14509156",
+            "tmdb_id": 123854,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3169978,
+            "title": "Fraggle Rock: Back to the Rock",
+            "year": 2022,
+            "imdb_id": "tt12397680",
+            "tmdb_id": 104002,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3195759,
+            "title": "Big Beasts",
+            "year": 2023,
+            "imdb_id": "tt27371495",
+            "tmdb_id": 223528,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3190631,
+            "title": "Circuit Breakers",
+            "year": 2022,
+            "imdb_id": "tt21942776",
+            "tmdb_id": 213359,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3178685,
+            "title": "Harriet the Spy",
+            "year": 2021,
+            "imdb_id": "tt12882128",
+            "tmdb_id": 136300,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 1702823,
+            "title": "Frog and Toad",
+            "year": 2023,
+            "imdb_id": "tt2197822",
+            "tmdb_id": 219056,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3202499,
+            "title": "Wanted: The Escape of Carlos Ghosn",
+            "year": 2023,
+            "imdb_id": "tt15520170",
+            "tmdb_id": 231319,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3181843,
+            "title": "Pretzel and the Puppies",
+            "year": 2022,
+            "imdb_id": "tt17524490",
+            "tmdb_id": 156746,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 1706238,
+            "title": "Boom! Boom!: The World vs. Boris Becker",
+            "year": 2023,
+            "imdb_id": "tt10366552",
+            "tmdb_id": 216681,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3185414,
+            "title": "Amber Brown",
+            "year": 2022,
+            "imdb_id": "tt15514598",
+            "tmdb_id": 135198,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3183533,
+            "title": "Pinecone & Pony",
+            "year": 2022,
+            "imdb_id": "tt18830366",
+            "tmdb_id": 195352,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3177707,
+            "title": "Puppy Place",
+            "year": 2021,
+            "imdb_id": "tt15389998",
+            "tmdb_id": 133153,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3172456,
+            "title": "Becoming You",
+            "year": 2020,
+            "imdb_id": "tt13007964",
+            "tmdb_id": 108305,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 310424,
+            "title": "Ax Men",
+            "year": 2008,
+            "imdb_id": "tt1197649",
+            "tmdb_id": 15563,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3164671,
+            "title": "Helpsters",
+            "year": 2019,
+            "imdb_id": "tt10515488",
+            "tmdb_id": 93519,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3177741,
+            "title": "Wolfboy and the Everything Factory",
+            "year": 2021,
+            "imdb_id": "tt15389676",
+            "tmdb_id": 133106,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3165286,
+            "title": "Ghostwriter",
+            "year": 2019,
+            "imdb_id": "tt11004134",
+            "tmdb_id": 93520,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3198920,
+            "title": "Messi Meets America",
+            "year": 2023,
+            "imdb_id": "tt29373357",
+            "tmdb_id": 228096,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3187944,
+            "title": "Life by Ella",
+            "year": 2022,
+            "imdb_id": "tt20230770",
+            "tmdb_id": 207639,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3186388,
+            "title": "Duck & Goose",
+            "year": 2022,
+            "imdb_id": "tt7999864",
+            "tmdb_id": 204087,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3184182,
+            "title": "Make or Break",
+            "year": 2022,
+            "imdb_id": "tt13773908",
+            "tmdb_id": 118536,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 319951,
+            "title": "Carpool Karaoke",
+            "year": 2017,
+            "imdb_id": "tt6396082",
+            "tmdb_id": 72610,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3188745,
+            "title": "Interrupting Chicken",
+            "year": 2022,
+            "imdb_id": "tt21942798",
+            "tmdb_id": 209131,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3186916,
+            "title": "Eva the Owlet",
+            "year": 2023,
+            "imdb_id": "tt20248376",
+            "tmdb_id": 205164,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3178668,
+            "title": "Hello, Jack! The Kindness Show",
+            "year": 2021,
+            "imdb_id": "tt14676680",
+            "tmdb_id": 125991,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3187448,
+            "title": "Gutsy",
+            "year": 2022,
+            "imdb_id": "tt13655266",
+            "tmdb_id": 206235,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3186966,
+            "title": "Sago Mini Friends",
+            "year": 2022,
+            "imdb_id": "tt19770764",
+            "tmdb_id": 205258,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3182611,
+            "title": "The Big Conn",
+            "year": 2022,
+            "imdb_id": "tt18265020",
+            "tmdb_id": 158333,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3193404,
+            "title": "Shape Island",
+            "year": 2023,
+            "imdb_id": "tt25515858",
+            "tmdb_id": 217658,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3193502,
+            "title": "Jane",
+            "year": 2023,
+            "imdb_id": "tt14014144",
+            "tmdb_id": 118534,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3180869,
+            "title": "Lincoln's Dilemma",
+            "year": 2022,
+            "imdb_id": "tt17043406",
+            "tmdb_id": 155714,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3193227,
+            "title": "My Kind of Country",
+            "year": 2023,
+            "imdb_id": "tt12916182",
+            "tmdb_id": 107593,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3166724,
+            "title": "Dear...",
+            "year": 2020,
+            "imdb_id": "tt10597242",
+            "tmdb_id": 98200,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3177724,
+            "title": "Get Rolling with Otis",
+            "year": 2021,
+            "imdb_id": "tt15389898",
+            "tmdb_id": 133152,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3187020,
+            "title": "Best Foot Forward",
+            "year": 2022,
+            "imdb_id": "tt20414738",
+            "tmdb_id": 205441,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 538846,
+            "title": "Oprah's Book Club",
+            "year": 2019,
+            "imdb_id": "tt11191198",
+            "tmdb_id": 93967,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        },
+        {
+            "id": 3172906,
+            "title": "The Hive",
+            "year": 2010,
+            "imdb_id": "tt1715134",
+            "tmdb_id": 42113,
+            "tmdb_type": "tv",
+            "type": "tv_series"
+        }
+    ],
+    "page": 1,
+    "total_pages": 1,
+    "total_results": 138
+}
