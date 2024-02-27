@@ -10,15 +10,19 @@ const About = () => {
   const data = [
     {
       title: 'Now Showing',
-      intro: '介紹美國(United States)現正上映中的電影。點擊海報即可展開電影全名、上映日期、電影摘要、預告',
+      intro: '提供美國(United States)現正上映中的電影。點擊海報即可展開電影全名、上映日期、電影摘要、預告',
     },
     {
       title: 'Coming Soon Movie',
-      intro: '介紹美國(United States)即將上映的電影。點擊海報即可展開電影預告。電影清單列出上方跑馬燈所有電影資料，包括預計上映日期、電影摘要、預告等',
+      intro: '提供美國(United States)即將上映的電影。點擊海報即可展開電影預告。電影清單列出上方跑馬燈所有電影資料，包括預計上映日期、電影摘要、預告等',
     },
     {
       title: 'TV Series Coming',
-      intro: '介紹美國(United States)所有串流平台即將上映的影集。點擊海報即可展開影集全名、內容摘要、影集類型、串流平台',
+      intro: '提供美國(United States)所有串流平台即將上映的影集。點擊海報即可展開影集全名、內容摘要、影集類型、串流平台',
+    },
+    {
+      title: 'TV Series Now Showing',
+      intro: '提供台灣主要熱門串流平台(Netflix/Disney+/AppleTV+)正在上檔的影集。點擊海報即可展開影集全名、內容摘要、影集類型、串流平台',
     },
   ];
   const tabList = [
@@ -63,7 +67,7 @@ const About = () => {
         <h3>ver:1.2 - 2024.02.26</h3>
         <ul>
           <li>新增美國所有串流平台即將上映的電影與影集頁面</li>
-          <li>新增台灣主要串流平台(Netflix/Disney/AppleTV+)正在上檔的影集頁面</li>
+          <li>新增台灣主要串流平台(Netflix/Disney+/AppleTV+)正在上檔的影集頁面</li>
         </ul>
         <h3>ver:1.1 - 2024.02.23</h3>
         <ul>

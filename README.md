@@ -1,5 +1,5 @@
 # Ｗatch Movie
-介紹美國(United States)現正上映中、預計上映的電影資訊，也可查詢現正熱映的電影場次。
+介紹美國(United States)現正上映中、預計上映的電影資訊，以及美國所有串流平台即將上映的電影影集與正在上檔的影集資訊。
 
 [webLink](https://daisybookya.github.io/watch-movie/)
 
@@ -7,7 +7,8 @@
 
 * Now Showing：美國現正上映中的電影。點擊海報即可展開電影全名、上映日期、電影摘要、預告
 * Coming Soon Movie：美國即將上映的電影。點擊海報即可展開電影預告。電影清單列出上方跑馬燈所有電影資料，包括預計上映日期、電影摘要、預告等
-* Film Show Times：可查詢美國現正上映中電影的場次
+* TV Series Coming：提供美國(United States)所有串流平台即將上映的影集。點擊海報即可展開影集全名、內容摘要、影集類型、串流平台
+* TV Series Now Showing：提供台灣主要熱門串流平台(Netflix/Disney+/AppleTV+)正在上檔的影集。點擊海報即可展開影集全名、內容摘要、影集類型、串流平台
 
 ### 工具使用
 
