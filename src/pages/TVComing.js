@@ -66,6 +66,7 @@ const TVComing = () => {
   }
   async function openInfor (data) {
     dispatch (open ());
+    if (data.title === tvDetail.title) return;
     dispatch (openInforLoading ());
     try {
       const infor = await getDetails (data.id);
