@@ -24,14 +24,17 @@
 }
 .tvshowing {
   .ant-list {
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
   }
   .ant-card-meta-title {
-    font-size: 20px;
+    font-size: 18px;
   }
   .ant-list-item {
-    padding: 12px;
+    padding: 18px 12px;
+    p {
+      margin-bottom: 0;
+    }
     &:hover {
       background-color: #333;
       .ant-card-meta-title {
@@ -39,6 +42,7 @@
     }
   }
   .ant-card-meta {
+    width: 100%;
     cursor: pointer;
   }
 }
@@ -127,6 +131,10 @@
     .ant-card-meta-title {
       font-size: 24px;
     }
+    .ant-card-meta {
+      width: 80%;
+      cursor: pointer;
+    }
   }
   .modal-flex {
     flex-direction: row;
@@ -138,7 +146,7 @@
 @media (min-width: 996px) {
   .tvshowing {
     .ant-list {
-      width: 70%;
+      width: 75%;
     }
   }
 }
